@@ -1,0 +1,15 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp*
+.Ruserdata
+*.Rproj
+# macOS / Office
+.DS_Store
+~$*
+# Datos crudos con restricción de distribución
+data_raw/Results_Coiras_ProtAndPhosphoCorrect.xlsx
+data_raw/string_cache/
+# Objetos intermedios regenerables
+data_processed/*.rds
