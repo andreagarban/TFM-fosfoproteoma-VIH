@@ -24,6 +24,7 @@ Comparaciones: imatinib vs control y dasatinib vs control. Criterio de selecció
 scripts/      Scripts R numerados en orden lógico de análisis
 tablas/       Tablas de resultados (CSV/TXT) generadas por los scripts
 figuras/      Figuras principales y heatmaps por categoría funcional
+              (material_suplementario_heatmaps.pdf: heatmaps suplementarios)
 data_raw/     Bases de datos públicas NCBI (el Excel original no se incluye)
 data_processed/  Objetos .rds intermedios (se regeneran al ejecutar los scripts)
 ```
