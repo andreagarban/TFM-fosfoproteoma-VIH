@@ -1,0 +1,12 @@
+bloque,nivel,n_genes,pct
+Dasatinib | down | Citoesqueleto,1. Relación directa con VIH-1,50,53.2
+Dasatinib | down | Citoesqueleto,2. Relación indirecta o funcional,9,9.6
+Dasatinib | down | Citoesqueleto,3. Candidata exploratoria,35,37.2
+Dasatinib | up | Senalizacion celular,1. Relación directa con VIH-1,3,50
+Dasatinib | up | Senalizacion celular,3. Candidata exploratoria,3,50
+Dasatinib | up | Spliceosoma/splicing,1. Relación directa con VIH-1,16,80
+Dasatinib | up | Spliceosoma/splicing,2. Relación indirecta o funcional,2,10
+Dasatinib | up | Spliceosoma/splicing,3. Candidata exploratoria,2,10
+Imatinib | up | Spliceosoma/splicing,1. Relación directa con VIH-1,15,68.2
+Imatinib | up | Spliceosoma/splicing,2. Relación indirecta o funcional,3,13.6
+Imatinib | up | Spliceosoma/splicing,3. Candidata exploratoria,4,18.2

@@ -1,0 +1,77 @@
+protein,gen,sig_imatinib,sig_dasatinib,n_fosfopeptidos,n_sig,nivel_ncbi,categoria_principal,categorias_todas,n_categorias
+THOC4_HUMAN,ALYREF,FALSE,TRUE,3,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Spliceosoma/procesamiento ARN,2
+CBLB_HUMAN,CBLB,TRUE,TRUE,2,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Señalización celular,2
+ROA1_HUMAN,HNRNPA1,FALSE,TRUE,8,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Spliceosoma/procesamiento ARN,2
+ROA2_HUMAN,HNRNPA2B1,FALSE,TRUE,22,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Spliceosoma/procesamiento ARN,2
+GRP75_HUMAN,HSPA9,FALSE,TRUE,4,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Citoesqueleto/tráfico intracelular,2
+LMNA_HUMAN,LMNA,TRUE,TRUE,18,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Citoesqueleto/tráfico intracelular,2
+LMNB1_HUMAN,LMNB1,TRUE,TRUE,28,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Citoesqueleto/tráfico intracelular,2
+LMNB2_HUMAN,LMNB2,FALSE,TRUE,11,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Citoesqueleto/tráfico intracelular,2
+NPM_HUMAN,NPM1,TRUE,TRUE,20,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Citoesqueleto/tráfico intracelular | Señalización celular,3
+PML_HUMAN,PML,TRUE,TRUE,16,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Citoesqueleto/tráfico intracelular,2
+RB15B_HUMAN,RBM15B,FALSE,TRUE,9,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Spliceosoma/procesamiento ARN,2
+RBM8A_HUMAN,RBM8A,FALSE,TRUE,5,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Spliceosoma/procesamiento ARN,2
+RTN4_HUMAN,RTN4,TRUE,TRUE,14,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Señalización celular,2
+SQSTM_HUMAN,SQSTM1,TRUE,TRUE,23,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Citoesqueleto/tráfico intracelular | Señalización celular,3
+TPR_HUMAN,TPR,TRUE,TRUE,8,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Citoesqueleto/tráfico intracelular,2
+VPS4B_HUMAN,VPS4B,TRUE,FALSE,3,1,1. Relación directa con VIH-1,Poro/transporte nuclear,Poro/transporte nuclear | Citoesqueleto/tráfico intracelular,2
+PPIA_HUMAN,PPIA,FALSE,TRUE,5,1,1. Relación directa con VIH-1,Complejo de preintegración,Complejo de preintegración | Señalización celular,2
+PSIP1_HUMAN,PSIP1,TRUE,TRUE,19,1,1. Relación directa con VIH-1,Complejo de preintegración,Complejo de preintegración | Spliceosoma/procesamiento ARN,2
+UVRAG_HUMAN,UVRAG,FALSE,TRUE,2,1,2. Relación indirecta o funcional,Complejo de preintegración,Complejo de preintegración | Citoesqueleto/tráfico intracelular | Señalización celular,3
+AHNK_HUMAN,AHNAK,TRUE,TRUE,129,1,1. Relación directa con VIH-1,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Citoesqueleto/tráfico intracelular,2
+CATIN_HUMAN,CACTIN,FALSE,TRUE,2,1,2. Relación indirecta o funcional,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Señalización celular,2
+H0YI41_HUMAN,HDAC7,FALSE,TRUE,1,1,1. Relación directa con VIH-1,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Señalización celular,2
+HDAC7_HUMAN,HDAC7,FALSE,TRUE,7,1,1. Relación directa con VIH-1,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Señalización celular,2
+HNRPC_HUMAN,HNRNPC,TRUE,TRUE,25,1,1. Relación directa con VIH-1,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Citoesqueleto/tráfico intracelular,2
+HNRPU_HUMAN,HNRNPU,TRUE,FALSE,16,1,1. Relación directa con VIH-1,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Citoesqueleto/tráfico intracelular,2
+NUCL_HUMAN,NCL,TRUE,TRUE,27,1,1. Relación directa con VIH-1,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Citoesqueleto/tráfico intracelular,2
+PCIF1_HUMAN,PCIF1,TRUE,FALSE,8,1,2. Relación indirecta o funcional,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Citoesqueleto/tráfico intracelular,2
+PR40A_HUMAN,PRPF40A,FALSE,TRUE,3,1,1. Relación directa con VIH-1,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Citoesqueleto/tráfico intracelular,2
+RBM39_HUMAN,RBM39,TRUE,TRUE,6,1,1. Relación directa con VIH-1,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Citoesqueleto/tráfico intracelular,2
+SNIP1_HUMAN,SNIP1,FALSE,TRUE,8,1,2. Relación indirecta o funcional,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Señalización celular,2
+SON_HUMAN,SON,TRUE,TRUE,20,1,1. Relación directa con VIH-1,Spliceosoma/procesamiento ARN,Spliceosoma/procesamiento ARN | Citoesqueleto/tráfico intracelular,2
+ACTN4_HUMAN,ACTN4,FALSE,TRUE,6,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+AKP13_HUMAN,AKAP13,TRUE,TRUE,40,1,2. Relación indirecta o funcional,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+ARHG2_HUMAN,ARHGEF2,FALSE,TRUE,22,1,2. Relación indirecta o funcional,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+CCR7_HUMAN,CCR7,TRUE,TRUE,6,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+CD44_HUMAN,CD44,FALSE,TRUE,19,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+CDK1_HUMAN,CDK1,FALSE,TRUE,4,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+DDX3X_HUMAN,DDX3X,TRUE,FALSE,1,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+RB6I2_HUMAN,ERC1,FALSE,TRUE,1,1,2. Relación indirecta o funcional,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+EZRI_HUMAN,EZR,FALSE,TRUE,7,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+FGR_HUMAN,FGR,FALSE,TRUE,3,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+FLNA_HUMAN,FLNA,FALSE,TRUE,70,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+FYN_HUMAN,FYN,FALSE,TRUE,5,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+G3P_HUMAN,GAPDH,TRUE,TRUE,22,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+GELS_HUMAN,GSN,FALSE,TRUE,15,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+1A03_HUMAN,HLA-A,TRUE,TRUE,21,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+1A26_HUMAN,HLA-A,FALSE,TRUE,14,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+HS90A_HUMAN,HSP90AA1,FALSE,TRUE,19,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+CH60_HUMAN,HSPD1,TRUE,TRUE,15,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+HS105_HUMAN,HSPH1,TRUE,FALSE,4,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+IL1A_HUMAN,IL1A,FALSE,TRUE,3,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+SHIP1_HUMAN,INPP5D,TRUE,TRUE,10,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+ITB3_HUMAN,ITGB3,FALSE,TRUE,13,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+PLSL_HUMAN,LCP1,FALSE,TRUE,29,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+MTOR_HUMAN,MTOR,FALSE,TRUE,2,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+MY18A_HUMAN,MYO18A,FALSE,TRUE,9,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+NCK1_HUMAN,NCK1,FALSE,TRUE,3,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+NCK2_HUMAN,NCK2,FALSE,TRUE,1,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+MERL_HUMAN,NF2,FALSE,TRUE,1,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+OCAD1_HUMAN,OCIAD1,TRUE,TRUE,2,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+PAK1_HUMAN,PAK1,FALSE,TRUE,5,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+P85B_HUMAN,PIK3R2,FALSE,TRUE,1,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+FAK1_HUMAN,PTK2,FALSE,TRUE,1,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+RAF1_HUMAN,RAF1,FALSE,TRUE,7,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+RAP1A_HUMAN,RAP1A,FALSE,TRUE,4,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+ROCK1_HUMAN,ROCK1,FALSE,TRUE,3,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+RS3_HUMAN,RPS3,FALSE,TRUE,7,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+RUBIC_HUMAN,RUBCN,FALSE,TRUE,4,1,2. Relación indirecta o funcional,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+S10A9_HUMAN,S100A9,FALSE,TRUE,13,1,2. Relación indirecta o funcional,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+JIP4_HUMAN,SPAG9,TRUE,TRUE,11,1,2. Relación indirecta o funcional,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+TAOK1_HUMAN,TAOK1,FALSE,TRUE,2,1,2. Relación indirecta o funcional,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+VAPA_HUMAN,VAPA,FALSE,TRUE,2,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+TERA_HUMAN,VCP,FALSE,TRUE,19,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+WASP_HUMAN,WAS,FALSE,TRUE,5,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+ZCCHV_HUMAN,ZC3HAV1,FALSE,TRUE,10,1,1. Relación directa con VIH-1,Citoesqueleto/tráfico intracelular,Citoesqueleto/tráfico intracelular | Señalización celular,2
+STAT3_HUMAN,STAT3,FALSE,TRUE,6,1,1. Relación directa con VIH-1,Señalización celular,Poro/transporte nuclear | Señalización celular,2

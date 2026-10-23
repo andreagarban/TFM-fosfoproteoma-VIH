@@ -1,0 +1,1366 @@
+gen,GO,ONTOLOGY,TERM,categoria
+CBLB,GO:0006607,BP,NLS-bearing protein import into nucleus,Poro/transporte nuclear
+ELAVL1,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+AHCTF1,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+AHCTF1,GO:0006913,BP,nucleocytoplasmic transport,Poro/transporte nuclear
+AHCTF1,GO:0031080,CC,nuclear pore outer ring,Poro/transporte nuclear
+AHCTF1,GO:0051292,BP,nuclear pore complex assembly,Poro/transporte nuclear
+MCM3AP,GO:0006406,BP,mRNA export from nucleus,Poro/transporte nuclear
+MCM3AP,GO:0016973,BP,poly(A)+ mRNA export from nucleus,Poro/transporte nuclear
+MCM3AP,GO:0044615,CC,nuclear pore nuclear basket,Poro/transporte nuclear
+HSPA9,GO:0006611,BP,protein export from nucleus,Poro/transporte nuclear
+KPNA1,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+KPNA1,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+KPNA1,GO:0006607,BP,NLS-bearing protein import into nucleus,Poro/transporte nuclear
+KPNA1,GO:0008139,MF,nuclear localization sequence binding,Poro/transporte nuclear
+KPNA1,GO:0042564,CC,NLS-dependent protein nuclear import complex,Poro/transporte nuclear
+KPNA1,GO:0061608,MF,nuclear import signal receptor activity,Poro/transporte nuclear
+SSB,GO:0006409,BP,tRNA export from nucleus,Poro/transporte nuclear
+LMNA,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+LMNA,GO:0051664,BP,nuclear pore localization,Poro/transporte nuclear
+LMNB1,GO:0051664,BP,nuclear pore localization,Poro/transporte nuclear
+LMNB2,GO:0051664,BP,nuclear pore localization,Poro/transporte nuclear
+MYBBP1A,GO:0042564,CC,NLS-dependent protein nuclear import complex,Poro/transporte nuclear
+ZC3HC1,GO:0044615,CC,nuclear pore nuclear basket,Poro/transporte nuclear
+NPM1,GO:0000055,BP,ribosomal large subunit export from nucleus,Poro/transporte nuclear
+NPM1,GO:0000056,BP,ribosomal small subunit export from nucleus,Poro/transporte nuclear
+NPM1,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+NPM1,GO:0006913,BP,nucleocytoplasmic transport,Poro/transporte nuclear
+NUP153,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+NUP153,GO:0006405,BP,RNA export from nucleus,Poro/transporte nuclear
+NUP153,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+NUP153,GO:0006913,BP,nucleocytoplasmic transport,Poro/transporte nuclear
+NUP153,GO:0008139,MF,nuclear localization sequence binding,Poro/transporte nuclear
+NUP153,GO:0017056,MF,structural constituent of nuclear pore,Poro/transporte nuclear
+NUP153,GO:0044615,CC,nuclear pore nuclear basket,Poro/transporte nuclear
+NUP153,GO:0051292,BP,nuclear pore complex assembly,Poro/transporte nuclear
+NUP155,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+NUP155,GO:0006405,BP,RNA export from nucleus,Poro/transporte nuclear
+NUP155,GO:0006406,BP,mRNA export from nucleus,Poro/transporte nuclear
+NUP155,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+NUP155,GO:0006913,BP,nucleocytoplasmic transport,Poro/transporte nuclear
+NUP155,GO:0017056,MF,structural constituent of nuclear pore,Poro/transporte nuclear
+NUP155,GO:0044611,CC,nuclear pore inner ring,Poro/transporte nuclear
+NUP188,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+NUP188,GO:0006405,BP,RNA export from nucleus,Poro/transporte nuclear
+NUP188,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+NUP188,GO:0006913,BP,nucleocytoplasmic transport,Poro/transporte nuclear
+NUP188,GO:0017056,MF,structural constituent of nuclear pore,Poro/transporte nuclear
+NUP188,GO:0044611,CC,nuclear pore inner ring,Poro/transporte nuclear
+NUP214,GO:0005049,MF,nuclear export signal receptor activity,Poro/transporte nuclear
+NUP214,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+NUP214,GO:0006405,BP,RNA export from nucleus,Poro/transporte nuclear
+NUP214,GO:0006406,BP,mRNA export from nucleus,Poro/transporte nuclear
+NUP214,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+NUP214,GO:0006611,BP,protein export from nucleus,Poro/transporte nuclear
+NUP214,GO:0006913,BP,nucleocytoplasmic transport,Poro/transporte nuclear
+NUP214,GO:0008139,MF,nuclear localization sequence binding,Poro/transporte nuclear
+NUP214,GO:0017056,MF,structural constituent of nuclear pore,Poro/transporte nuclear
+NUP214,GO:1990876,CC,cytoplasmic side of nuclear pore,Poro/transporte nuclear
+PML,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+NUP210,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+NUP210,GO:0006913,BP,nucleocytoplasmic transport,Poro/transporte nuclear
+RBM15B,GO:0006406,BP,mRNA export from nucleus,Poro/transporte nuclear
+RBM8A,GO:0006406,BP,mRNA export from nucleus,Poro/transporte nuclear
+RANBP2,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+RANBP2,GO:0006607,BP,NLS-bearing protein import into nucleus,Poro/transporte nuclear
+RANBP2,GO:0006913,BP,nucleocytoplasmic transport,Poro/transporte nuclear
+RANBP2,GO:0044614,CC,nuclear pore cytoplasmic filaments,Poro/transporte nuclear
+RANBP2,GO:0044615,CC,nuclear pore nuclear basket,Poro/transporte nuclear
+RANBP2,GO:0051168,BP,nuclear export,Poro/transporte nuclear
+RANBP2,GO:1990723,CC,cytoplasmic periphery of the nuclear pore complex,Poro/transporte nuclear
+HNRNPA1,GO:0006405,BP,RNA export from nucleus,Poro/transporte nuclear
+HNRNPA1,GO:0051168,BP,nuclear export,Poro/transporte nuclear
+HNRNPA1,GO:0051170,BP,import into nucleus,Poro/transporte nuclear
+HNRNPA2B1,GO:0006406,BP,mRNA export from nucleus,Poro/transporte nuclear
+RTN4,GO:0051292,BP,nuclear pore complex assembly,Poro/transporte nuclear
+SQSTM1,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+STAT3,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+ALYREF,GO:0006405,BP,RNA export from nucleus,Poro/transporte nuclear
+ALYREF,GO:0006406,BP,mRNA export from nucleus,Poro/transporte nuclear
+TPR,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+TPR,GO:0006404,BP,RNA import into nucleus,Poro/transporte nuclear
+TPR,GO:0006405,BP,RNA export from nucleus,Poro/transporte nuclear
+TPR,GO:0006406,BP,mRNA export from nucleus,Poro/transporte nuclear
+TPR,GO:0006606,BP,protein import into nucleus,Poro/transporte nuclear
+TPR,GO:0006913,BP,nucleocytoplasmic transport,Poro/transporte nuclear
+TPR,GO:0006999,BP,nuclear pore organization,Poro/transporte nuclear
+TPR,GO:0017056,MF,structural constituent of nuclear pore,Poro/transporte nuclear
+TPR,GO:0031990,BP,mRNA export from nucleus in response to heat stress,Poro/transporte nuclear
+TPR,GO:0044615,CC,nuclear pore nuclear basket,Poro/transporte nuclear
+VPS4B,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+XPO4,GO:0005049,MF,nuclear export signal receptor activity,Poro/transporte nuclear
+XPO4,GO:0005643,CC,nuclear pore,Poro/transporte nuclear
+XPO4,GO:0006611,BP,protein export from nucleus,Poro/transporte nuclear
+LIG3,GO:0097681,BP,double-strand break repair via alternative nonhomologous end joining,Complejo de preintegración
+NBN,GO:0097681,BP,double-strand break repair via alternative nonhomologous end joining,Complejo de preintegración
+PRKDC,GO:0006303,BP,double-strand break repair via nonhomologous end joining,Complejo de preintegración
+PRKDC,GO:0070419,CC,nonhomologous end joining complex,Complejo de preintegración
+PRKDC,GO:0097681,BP,double-strand break repair via alternative nonhomologous end joining,Complejo de preintegración
+PRKDC,GO:2001034,BP,positive regulation of double-strand break repair via nonhomologous end joining,Complejo de preintegración
+TOP2B,GO:2001034,BP,positive regulation of double-strand break repair via nonhomologous end joining,Complejo de preintegración
+TP53BP1,GO:0006303,BP,double-strand break repair via nonhomologous end joining,Complejo de preintegración
+TP53BP1,GO:0097680,BP,double-strand break repair via classical nonhomologous end joining,Complejo de preintegración
+UVRAG,GO:0097680,BP,double-strand break repair via classical nonhomologous end joining,Complejo de preintegración
+XRCC5,GO:0006303,BP,double-strand break repair via nonhomologous end joining,Complejo de preintegración
+XRCC5,GO:0070419,CC,nonhomologous end joining complex,Complejo de preintegración
+XRCC6,GO:0006303,BP,double-strand break repair via nonhomologous end joining,Complejo de preintegración
+XRCC6,GO:0070419,CC,nonhomologous end joining complex,Complejo de preintegración
+XRCC6,GO:0097680,BP,double-strand break repair via classical nonhomologous end joining,Complejo de preintegración
+CDK11B,GO:0043484,BP,regulation of RNA splicing,Spliceosoma/procesamiento ARN
+CDK11B,GO:0050684,BP,regulation of mRNA processing,Spliceosoma/procesamiento ARN
+ACIN1,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+ACIN1,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+ACIN1,GO:0048025,BP,"negative regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+AHNAK,GO:0043484,BP,regulation of RNA splicing,Spliceosoma/procesamiento ARN
+CACTIN,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+CACTIN,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+CACTIN,GO:0045292,BP,"mRNA cis splicing, via spliceosome",Spliceosoma/procesamiento ARN
+CACTIN,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+CCAR2,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+CCAR2,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+CDK13,GO:0000380,BP,"alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+CSTF3,GO:0180010,BP,"co-transcriptional mRNA 3'-end processing, cleavage and polyadenylation pathway",Spliceosoma/procesamiento ARN
+CWC22,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+CWC22,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+CWC22,GO:0048024,BP,"regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+CWC22,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+CWC22,GO:0071006,CC,U2-type catalytic step 1 spliceosome,Spliceosoma/procesamiento ARN
+CWC22,GO:0071007,CC,U2-type catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+CWC22,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+DDX17,GO:0000380,BP,"alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+DDX17,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+DDX23,GO:0000354,BP,cis assembly of pre-catalytic spliceosome,Spliceosoma/procesamiento ARN
+DDX23,GO:0000375,BP,"RNA splicing, via transesterification reactions",Spliceosoma/procesamiento ARN
+DDX23,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+DDX23,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+DDX23,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+DHX8,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+DHX8,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+DHX8,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+DHX8,GO:0071007,CC,U2-type catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+DHX8,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+HDAC7,GO:0050684,BP,regulation of mRNA processing,Spliceosoma/procesamiento ARN
+HNRNPDL,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+HNRNPH2,GO:0043484,BP,regulation of RNA splicing,Spliceosoma/procesamiento ARN
+HNRNPUL2,GO:0000380,BP,"alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPC,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPC,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+HNRNPC,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+HNRNPC,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+HNRNPK,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPK,GO:0048024,BP,"regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPK,GO:0048025,BP,"negative regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPK,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+HNRNPU,GO:0000380,BP,"alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPU,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPU,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPU,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+HSPA8,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HSPA8,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+HTATSF1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HTATSF1,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+HTATSF1,GO:0005684,CC,U2-type spliceosomal complex,Spliceosoma/procesamiento ARN
+HTATSF1,GO:1903241,BP,U2-type prespliceosome assembly,Spliceosoma/procesamiento ARN
+ILF3,GO:0160091,BP,spliceosome-depend formation of circular RNA,Spliceosoma/procesamiento ARN
+KHDRBS3,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+KHDRBS3,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+LARP7,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+LARP7,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+LARP7,GO:0048024,BP,"regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+MFAP1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+MFAP1,GO:0005684,CC,U2-type spliceosomal complex,Spliceosoma/procesamiento ARN
+MFAP1,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+NONO,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+NONO,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+NSRP1,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+NSRP1,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+NSRP1,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+NSUN2,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+NCL,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+NCL,GO:0048026,BP,"positive regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+PCIF1,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+PPIG,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+PRPF38B,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+PRPF38B,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+PRPF38B,GO:0071011,CC,precatalytic spliceosome,Spliceosoma/procesamiento ARN
+PRPF40A,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+PRPF40A,GO:0045292,BP,"mRNA cis splicing, via spliceosome",Spliceosoma/procesamiento ARN
+PRPF40A,GO:0071004,CC,U2-type prespliceosome,Spliceosoma/procesamiento ARN
+CDC40,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+CDC40,GO:0071007,CC,U2-type catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+CDC40,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+PRPF31,GO:0000244,BP,spliceosomal tri-snRNP complex assembly,Spliceosoma/procesamiento ARN
+PRPF31,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+PRPF31,GO:0005684,CC,U2-type spliceosomal complex,Spliceosoma/procesamiento ARN
+PRPF31,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+PRPF31,GO:0071011,CC,precatalytic spliceosome,Spliceosoma/procesamiento ARN
+PRPF31,GO:0097526,CC,spliceosomal tri-snRNP complex,Spliceosoma/procesamiento ARN
+PSIP1,GO:0000395,BP,mRNA 5'-splice site recognition,Spliceosoma/procesamiento ARN
+PTBP1,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+PTBP1,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+PTBP1,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+PTBP1,GO:0033119,BP,negative regulation of RNA splicing,Spliceosoma/procesamiento ARN
+PTBP1,GO:0043484,BP,regulation of RNA splicing,Spliceosoma/procesamiento ARN
+PTBP1,GO:0048025,BP,"negative regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPA1L2,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPA1L2,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+RBM15B,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM15B,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+RBM15B,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+RBBP6,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+RBM10,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM10,GO:0048025,BP,"negative regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM15,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM39,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+RBM39,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+RBM39,GO:0048024,BP,"regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM5,GO:0000245,BP,spliceosomal complex assembly,Spliceosoma/procesamiento ARN
+RBM5,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM5,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM5,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+RBM7,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM8A,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM8A,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBM8A,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+RBM8A,GO:0050684,BP,regulation of mRNA processing,Spliceosoma/procesamiento ARN
+RBM8A,GO:0071006,CC,U2-type catalytic step 1 spliceosome,Spliceosoma/procesamiento ARN
+RBM8A,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+RBMX,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBMX,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBMX,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+RBMX,GO:0044530,CC,supraspliceosomal complex,Spliceosoma/procesamiento ARN
+RBMX,GO:0048025,BP,"negative regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBMX,GO:0048026,BP,"positive regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RBMX,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+TAF15,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+RNPS1,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RNPS1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+RNPS1,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+RNPS1,GO:0048025,BP,"negative regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPA0,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+HNRNPA1,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPA1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPA1,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+HNRNPA1,GO:0043484,BP,regulation of RNA splicing,Spliceosoma/procesamiento ARN
+HNRNPA1,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+HNRNPA2B1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPA2B1,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+HNRNPA2B1,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+HNRNPA2B1,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+HNRNPA3,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+HNRNPA3,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+RPRD2,GO:0031124,BP,mRNA 3'-end processing,Spliceosoma/procesamiento ARN
+SNRNP70,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SNRNP70,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+SNRNP70,GO:0043484,BP,regulation of RNA splicing,Spliceosoma/procesamiento ARN
+SNRNP70,GO:0048026,BP,"positive regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SNRNP70,GO:0071004,CC,U2-type prespliceosome,Spliceosoma/procesamiento ARN
+SAFB,GO:0050684,BP,regulation of mRNA processing,Spliceosoma/procesamiento ARN
+SF3B1,GO:0000245,BP,spliceosomal complex assembly,Spliceosoma/procesamiento ARN
+SF3B1,GO:0000375,BP,"RNA splicing, via transesterification reactions",Spliceosoma/procesamiento ARN
+SF3B1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SF3B1,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+SF3B1,GO:0005684,CC,U2-type spliceosomal complex,Spliceosoma/procesamiento ARN
+SF3B1,GO:0005689,CC,U12-type spliceosomal complex,Spliceosoma/procesamiento ARN
+SF3B1,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+SF3B1,GO:0071004,CC,U2-type prespliceosome,Spliceosoma/procesamiento ARN
+SF3B1,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+SF3B1,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+SF3B1,GO:1903241,BP,U2-type prespliceosome assembly,Spliceosoma/procesamiento ARN
+SF3B1,GO:1990935,MF,splicing factor binding,Spliceosoma/procesamiento ARN
+SF3B2,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SF3B2,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+SF3B2,GO:0005684,CC,U2-type spliceosomal complex,Spliceosoma/procesamiento ARN
+SF3B2,GO:0005689,CC,U12-type spliceosomal complex,Spliceosoma/procesamiento ARN
+SF3B2,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+SF3B2,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+SF3B2,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+SF3B2,GO:0071011,CC,precatalytic spliceosome,Spliceosoma/procesamiento ARN
+SF3B2,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+SF3B2,GO:1903241,BP,U2-type prespliceosome assembly,Spliceosoma/procesamiento ARN
+SF3B3,GO:0000375,BP,"RNA splicing, via transesterification reactions",Spliceosoma/procesamiento ARN
+SF3B3,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SF3B3,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+SF3B3,GO:0005684,CC,U2-type spliceosomal complex,Spliceosoma/procesamiento ARN
+SF3B3,GO:0005689,CC,U12-type spliceosomal complex,Spliceosoma/procesamiento ARN
+SF3B3,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+SF3B3,GO:0043484,BP,regulation of RNA splicing,Spliceosoma/procesamiento ARN
+SF3B3,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+SF3B3,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+SF3B3,GO:1903241,BP,U2-type prespliceosome assembly,Spliceosoma/procesamiento ARN
+SFPQ,GO:0000380,BP,"alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SFPQ,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+SFPQ,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+SCAF1,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+SCAF1,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+SNIP1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SNIP1,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+SNIP1,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+SNIP1,GO:1903241,BP,U2-type prespliceosome assembly,Spliceosoma/procesamiento ARN
+SART1,GO:0000387,BP,spliceosomal snRNP assembly,Spliceosoma/procesamiento ARN
+SART1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SART1,GO:0045292,BP,"mRNA cis splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SART1,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+SART1,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+SON,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+SON,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+SON,GO:0043484,BP,regulation of RNA splicing,Spliceosoma/procesamiento ARN
+SON,GO:0048024,BP,"regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRRM1,GO:0000375,BP,"RNA splicing, via transesterification reactions",Spliceosoma/procesamiento ARN
+SRRM1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRRM1,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+SRRM1,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+SRRM1,GO:0048024,BP,"regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRRM1,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+SRRM2,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRRM2,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+SRRM2,GO:0071007,CC,U2-type catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+SRRM2,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+SRRT,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+SRSF10,GO:0000244,BP,spliceosomal tri-snRNP complex assembly,Spliceosoma/procesamiento ARN
+SRSF10,GO:0000375,BP,"RNA splicing, via transesterification reactions",Spliceosoma/procesamiento ARN
+SRSF10,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRSF10,GO:0006376,BP,mRNA splice site recognition,Spliceosoma/procesamiento ARN
+SRSF10,GO:0048024,BP,"regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRSF10,GO:0048025,BP,"negative regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRSF11,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+SRSF11,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+SRSF1,GO:0000380,BP,"alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRSF1,GO:0000395,BP,mRNA 5'-splice site recognition,Spliceosoma/procesamiento ARN
+SRSF1,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRSF1,GO:0006376,BP,mRNA splice site recognition,Spliceosoma/procesamiento ARN
+SRSF1,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+SRSF1,GO:0033120,BP,positive regulation of RNA splicing,Spliceosoma/procesamiento ARN
+SRSF1,GO:0043484,BP,regulation of RNA splicing,Spliceosoma/procesamiento ARN
+SRSF1,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+SRSF2,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRSF2,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+SRSF2,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+SRSF2,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+SRSF9,GO:0000380,BP,"alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SRSF9,GO:0006376,BP,mRNA splice site recognition,Spliceosoma/procesamiento ARN
+SRSF9,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+SRSF9,GO:0048025,BP,"negative regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+ALYREF,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+ALYREF,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+ALYREF,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+THRAP3,GO:0000381,BP,"regulation of alternative mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+THRAP3,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+THRAP3,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+THRAP3,GO:0048026,BP,"positive regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+TRA2A,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+TRA2A,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+TRA2A,GO:0048026,BP,"positive regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+U2AF2,GO:0000245,BP,spliceosomal complex assembly,Spliceosoma/procesamiento ARN
+U2AF2,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+U2AF2,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+U2AF2,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+U2AF2,GO:0030628,MF,pre-mRNA 3'-splice site binding,Spliceosoma/procesamiento ARN
+U2AF2,GO:0033120,BP,positive regulation of RNA splicing,Spliceosoma/procesamiento ARN
+U2AF2,GO:0048025,BP,"negative regulation of mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+U2AF2,GO:0071004,CC,U2-type prespliceosome,Spliceosoma/procesamiento ARN
+SNRNP200,GO:0000354,BP,cis assembly of pre-catalytic spliceosome,Spliceosoma/procesamiento ARN
+SNRNP200,GO:0000388,BP,spliceosome conformational change to release U4 (or U4atac) and U1 (or U11),Spliceosoma/procesamiento ARN
+SNRNP200,GO:0000398,BP,"mRNA splicing, via spliceosome",Spliceosoma/procesamiento ARN
+SNRNP200,GO:0005681,CC,spliceosomal complex,Spliceosoma/procesamiento ARN
+SNRNP200,GO:0071005,CC,U2-type precatalytic spliceosome,Spliceosoma/procesamiento ARN
+SNRNP200,GO:0071006,CC,U2-type catalytic step 1 spliceosome,Spliceosoma/procesamiento ARN
+SNRNP200,GO:0071013,CC,catalytic step 2 spliceosome,Spliceosoma/procesamiento ARN
+YBX1,GO:0005689,CC,U12-type spliceosomal complex,Spliceosoma/procesamiento ARN
+YBX1,GO:0006397,BP,mRNA processing,Spliceosoma/procesamiento ARN
+YBX1,GO:0008380,BP,RNA splicing,Spliceosoma/procesamiento ARN
+YWHAH,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+YWHAH,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+HLA-A,GO:0031901,CC,early endosome membrane,Citoesqueleto/tráfico intracelular
+HLA-A,GO:0055038,CC,recycling endosome membrane,Citoesqueleto/tráfico intracelular
+EPB41,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+EPB41,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+EPB41,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+EPB41,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+EPB41,GO:0014731,CC,spectrin-associated cytoskeleton,Citoesqueleto/tráfico intracelular
+EPB41,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EPB41,GO:0030863,CC,cortical cytoskeleton,Citoesqueleto/tráfico intracelular
+EPB41,GO:0030866,BP,cortical actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EPB41,GO:1904778,BP,positive regulation of protein localization to cell cortex,Citoesqueleto/tráfico intracelular
+ABLIM1,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+ABLIM1,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+ABLIM1,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ABLIM1,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ABLIM1,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+ABLIM1,GO:0030032,BP,lamellipodium assembly,Citoesqueleto/tráfico intracelular
+ABLIM1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+ACACA,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ACTN1,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+ACTN1,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+ACTN1,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+ACTN1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ACTN1,GO:0030864,CC,cortical actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ACTN1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+ACTN1,GO:0051017,BP,actin filament bundle assembly,Citoesqueleto/tráfico intracelular
+ACTN1,GO:0051639,BP,actin filament network formation,Citoesqueleto/tráfico intracelular
+ACTN4,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+ACTN4,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+ACTN4,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ACTN4,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ACTN4,GO:0030050,BP,vesicle transport along actin filament,Citoesqueleto/tráfico intracelular
+ACTN4,GO:0030864,CC,cortical actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ACTN4,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+ACTN4,GO:0098871,CC,postsynaptic actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ACTR1A,GO:0005875,CC,microtubule associated complex,Citoesqueleto/tráfico intracelular
+ACTR1A,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+ACTR1A,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+ACTR1A,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+ADD2,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+ADD2,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+ADD2,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+ADD2,GO:0008290,CC,F-actin capping protein complex,Citoesqueleto/tráfico intracelular
+ADD2,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ADD2,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+ADD2,GO:0051016,BP,barbed-end actin filament capping,Citoesqueleto/tráfico intracelular
+ADD2,GO:0051017,BP,actin filament bundle assembly,Citoesqueleto/tráfico intracelular
+ADD3,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+ADD3,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+ADD3,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+ADD3,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ADD3,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+ADD3,GO:0051016,BP,barbed-end actin filament capping,Citoesqueleto/tráfico intracelular
+ADD3,GO:0051495,BP,positive regulation of cytoskeleton organization,Citoesqueleto/tráfico intracelular
+AHNAK,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+AKAP13,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+AKAP13,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+AKAP13,GO:0030864,CC,cortical actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ALDOA,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+ALDOA,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+ALDOA,GO:0008092,MF,cytoskeletal protein binding,Citoesqueleto/tráfico intracelular
+ALDOA,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ANXA1,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+ANXA1,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+ANXA1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ANXA1,GO:0031901,CC,early endosome membrane,Citoesqueleto/tráfico intracelular
+ANXA2,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+ANXA2,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+ANXA2,GO:0008092,MF,cytoskeletal protein binding,Citoesqueleto/tráfico intracelular
+ANXA2,GO:0031902,CC,late endosome membrane,Citoesqueleto/tráfico intracelular
+AP2M1,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+AP2M1,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+AP3B1,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+AP3B1,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+AP3B1,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+AP3B1,GO:0046907,BP,intracellular transport,Citoesqueleto/tráfico intracelular
+AP3D1,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+AP3D1,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+AP3D1,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+AP3D1,GO:0016182,BP,synaptic vesicle budding from endosome,Citoesqueleto/tráfico intracelular
+AP3D1,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+AP3D1,GO:0035646,BP,endosome to melanosome transport,Citoesqueleto/tráfico intracelular
+AP3D1,GO:0046907,BP,intracellular transport,Citoesqueleto/tráfico intracelular
+AP3D1,GO:0098830,CC,presynaptic endosome,Citoesqueleto/tráfico intracelular
+AP3D1,GO:0098943,BP,"neurotransmitter receptor transport, postsynaptic endosome to lysosome",Citoesqueleto/tráfico intracelular
+APOA1,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+APOA1,GO:0051496,BP,positive regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+ARHGEF2,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+ARHGEF2,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+ARHGEF2,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+ARHGEF2,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+ARHGEF2,GO:0007026,BP,negative regulation of microtubule depolymerization,Citoesqueleto/tráfico intracelular
+ARHGEF2,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+ARHGEF6,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+ARHGEF6,GO:0030032,BP,lamellipodium assembly,Citoesqueleto/tráfico intracelular
+ARHGEF7,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+ARHGEF7,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+ARHGEF7,GO:0030032,BP,lamellipodium assembly,Citoesqueleto/tráfico intracelular
+ARHGEF7,GO:1905833,BP,negative regulation of microtubule nucleation,Citoesqueleto/tráfico intracelular
+ARHGEF7,GO:2000394,BP,positive regulation of lamellipodium morphogenesis,Citoesqueleto/tráfico intracelular
+ARPC3,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+ARPC3,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ARPC3,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+ARPC3,GO:0030833,BP,regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+ARPC3,GO:0031941,CC,filamentous actin,Citoesqueleto/tráfico intracelular
+ARPC3,GO:0034314,BP,Arp2/3 complex-mediated actin nucleation,Citoesqueleto/tráfico intracelular
+ARPC3,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+ARPC3,GO:0070358,BP,actin polymerization-dependent cell motility,Citoesqueleto/tráfico intracelular
+ARPC4,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+ARPC4,GO:0030041,BP,actin filament polymerization,Citoesqueleto/tráfico intracelular
+ARPC4,GO:0034314,BP,Arp2/3 complex-mediated actin nucleation,Citoesqueleto/tráfico intracelular
+ARPC4,GO:0045010,BP,actin nucleation,Citoesqueleto/tráfico intracelular
+ARPC4,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+BSG,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+BASP1,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+EML2,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EML2,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+EML2,GO:0005875,CC,microtubule associated complex,Citoesqueleto/tráfico intracelular
+EML2,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+EML2,GO:0010968,BP,regulation of microtubule nucleation,Citoesqueleto/tráfico intracelular
+EML2,GO:0031115,BP,negative regulation of microtubule polymerization,Citoesqueleto/tráfico intracelular
+CAPN2,GO:0008092,MF,cytoskeletal protein binding,Citoesqueleto/tráfico intracelular
+CAPN2,GO:0030864,CC,cortical actin cytoskeleton,Citoesqueleto/tráfico intracelular
+CAPN2,GO:0051493,BP,regulation of cytoskeleton organization,Citoesqueleto/tráfico intracelular
+CAPZB,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+CAPZB,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+CAPZB,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+CAPZB,GO:0008154,BP,actin polymerization or depolymerization,Citoesqueleto/tráfico intracelular
+CAPZB,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+CAPZB,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+CAPZB,GO:0030032,BP,lamellipodium assembly,Citoesqueleto/tráfico intracelular
+CAPZB,GO:0030863,CC,cortical cytoskeleton,Citoesqueleto/tráfico intracelular
+CTSD,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+CTSD,GO:0031904,CC,endosome lumen,Citoesqueleto/tráfico intracelular
+CAPZA1,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+CAPZA1,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+CAPZA1,GO:0008290,CC,F-actin capping protein complex,Citoesqueleto/tráfico intracelular
+CAPZA1,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+CAPZA1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+CAPZA1,GO:0030863,CC,cortical cytoskeleton,Citoesqueleto/tráfico intracelular
+CAPZA1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+CAPZA1,GO:0051016,BP,barbed-end actin filament capping,Citoesqueleto/tráfico intracelular
+CCR7,GO:0030838,BP,positive regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+CCZ1B,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+CD44,GO:0031258,CC,lamellipodium membrane,Citoesqueleto/tráfico intracelular
+CD44,GO:2000392,BP,regulation of lamellipodium morphogenesis,Citoesqueleto/tráfico intracelular
+CDK1,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+CDK1,GO:0005876,CC,spindle microtubule,Citoesqueleto/tráfico intracelular
+CDK1,GO:1902423,BP,regulation of attachment of mitotic spindle microtubules to kinetochore,Citoesqueleto/tráfico intracelular
+CDK1,GO:1902850,BP,microtubule cytoskeleton organization involved in mitosis,Citoesqueleto/tráfico intracelular
+CEP170,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+HSPD1,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+CKAP4,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+CFL1,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+CFL1,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+CFL1,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+CFL1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+CFL1,GO:0030042,BP,actin filament depolymerization,Citoesqueleto/tráfico intracelular
+CFL1,GO:0030043,BP,actin filament fragmentation,Citoesqueleto/tráfico intracelular
+CFL1,GO:0031258,CC,lamellipodium membrane,Citoesqueleto/tráfico intracelular
+CFL1,GO:0051014,BP,actin filament severing,Citoesqueleto/tráfico intracelular
+CFL1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+COPA,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+COPA,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+COPA,GO:0006890,BP,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",Citoesqueleto/tráfico intracelular
+COPA,GO:0006891,BP,intra-Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+COPB2,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+COPB2,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+COPB2,GO:0006890,BP,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",Citoesqueleto/tráfico intracelular
+COPB2,GO:0006891,BP,intra-Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+RCSD1,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+RCSD1,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+RCSD1,GO:0036010,BP,protein localization to endosome,Citoesqueleto/tráfico intracelular
+RCSD1,GO:0042147,BP,"retrograde transport, endosome to Golgi",Citoesqueleto/tráfico intracelular
+RCSD1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+DYNC1LI1,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+DYNC1LI1,GO:0005868,CC,cytoplasmic dynein complex,Citoesqueleto/tráfico intracelular
+DYNC1LI1,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+DYNC1LI1,GO:0007018,BP,microtubule-based movement,Citoesqueleto/tráfico intracelular
+DYNC1LI1,GO:0045504,MF,dynein heavy chain binding,Citoesqueleto/tráfico intracelular
+DYNC1LI1,GO:0055038,CC,recycling endosome membrane,Citoesqueleto/tráfico intracelular
+DYNC1LI1,GO:0060627,BP,regulation of vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+DYNC1LI1,GO:0061502,BP,early endosome to recycling endosome transport,Citoesqueleto/tráfico intracelular
+DYNC1LI2,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+DYNC1LI2,GO:0005770,CC,late endosome,Citoesqueleto/tráfico intracelular
+DYNC1LI2,GO:0005868,CC,cytoplasmic dynein complex,Citoesqueleto/tráfico intracelular
+DYNC1LI2,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+DYNC1LI2,GO:0007018,BP,microtubule-based movement,Citoesqueleto/tráfico intracelular
+DYNC1LI2,GO:0030286,CC,dynein complex,Citoesqueleto/tráfico intracelular
+DYNC1LI2,GO:0045504,MF,dynein heavy chain binding,Citoesqueleto/tráfico intracelular
+DDX3X,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+DES,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+DES,GO:0005882,CC,intermediate filament,Citoesqueleto/tráfico intracelular
+DES,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+DES,GO:0008092,MF,cytoskeletal protein binding,Citoesqueleto/tráfico intracelular
+DES,GO:0045109,BP,intermediate filament organization,Citoesqueleto/tráfico intracelular
+DES,GO:0045111,CC,intermediate filament cytoskeleton,Citoesqueleto/tráfico intracelular
+DNAJA1,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+DNAJB6,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+DNAJB6,GO:0045109,BP,intermediate filament organization,Citoesqueleto/tráfico intracelular
+DNM1L,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+DNM1L,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+DOCK2,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+DOCK2,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EPB41L2,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+EPB41L2,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+EPB41L2,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+EPB41L2,GO:0030866,BP,cortical actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EPB41L2,GO:1904778,BP,positive regulation of protein localization to cell cortex,Citoesqueleto/tráfico intracelular
+EPB41L3,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+EPB41L3,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+EPB41L3,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+EPB41L3,GO:0030865,BP,cortical cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EPB41L3,GO:0030866,BP,cortical actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EPB41L3,GO:0106006,MF,cytoskeletal protein-membrane anchor activity,Citoesqueleto/tráfico intracelular
+MAP4,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+MAP4,GO:0005815,CC,microtubule organizing center,Citoesqueleto/tráfico intracelular
+MAP4,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+MAP4,GO:0005875,CC,microtubule associated complex,Citoesqueleto/tráfico intracelular
+MAP4,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+MAP4,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+MAP4,GO:0046785,BP,microtubule polymerization,Citoesqueleto/tráfico intracelular
+MAP4,GO:0051012,BP,microtubule sliding,Citoesqueleto/tráfico intracelular
+MAP4,GO:0140778,MF,microtubule stabilizing activity,Citoesqueleto/tráfico intracelular
+ELMO1,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+ELMO1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EML3,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EML3,GO:0005876,CC,spindle microtubule,Citoesqueleto/tráfico intracelular
+EML3,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+EML3,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+EML3,GO:1990498,CC,mitotic spindle microtubule,Citoesqueleto/tráfico intracelular
+ENO1,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+HSP90B1,GO:0031247,BP,actin rod assembly,Citoesqueleto/tráfico intracelular
+EPS15,GO:0006895,BP,Golgi to endosome transport,Citoesqueleto/tráfico intracelular
+EPS15,GO:0016197,BP,endosomal transport,Citoesqueleto/tráfico intracelular
+EPS15,GO:0031901,CC,early endosome membrane,Citoesqueleto/tráfico intracelular
+EVL,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+EVL,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+EVL,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+EVL,GO:0008154,BP,actin polymerization or depolymerization,Citoesqueleto/tráfico intracelular
+EVL,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+EVL,GO:0030838,BP,positive regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+EVL,GO:0051496,BP,positive regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+EZR,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+EZR,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+EZR,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+EZR,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+EZR,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+EZR,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EZR,GO:0030863,CC,cortical cytoskeleton,Citoesqueleto/tráfico intracelular
+EZR,GO:0030953,BP,astral microtubule organization,Citoesqueleto/tráfico intracelular
+EZR,GO:0043622,BP,cortical microtubule organization,Citoesqueleto/tráfico intracelular
+EZR,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+EZR,GO:0051017,BP,actin filament bundle assembly,Citoesqueleto/tráfico intracelular
+EZR,GO:0072697,BP,protein localization to cell cortex,Citoesqueleto/tráfico intracelular
+EZR,GO:0098974,BP,postsynaptic actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+EZR,GO:1902966,BP,positive regulation of protein localization to early endosome,Citoesqueleto/tráfico intracelular
+EZR,GO:2000643,BP,positive regulation of early endosome to late endosome transport,Citoesqueleto/tráfico intracelular
+PTK2,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+PTK2,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+PTK2,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+PTK2,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+PTK2,GO:0051493,BP,regulation of cytoskeleton organization,Citoesqueleto/tráfico intracelular
+FGR,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+FGR,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+FKBP4,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+FKBP4,GO:0031111,BP,negative regulation of microtubule polymerization or depolymerization,Citoesqueleto/tráfico intracelular
+FKBP4,GO:0031115,BP,negative regulation of microtubule polymerization,Citoesqueleto/tráfico intracelular
+FLNA,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+FLNA,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+FLNA,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+FLNA,GO:0030863,CC,cortical cytoskeleton,Citoesqueleto/tráfico intracelular
+FLNA,GO:0032233,BP,positive regulation of actin filament bundle assembly,Citoesqueleto/tráfico intracelular
+FLNA,GO:0032432,CC,actin filament bundle,Citoesqueleto/tráfico intracelular
+FLNA,GO:0045022,BP,early endosome to late endosome transport,Citoesqueleto/tráfico intracelular
+FLNA,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+FLNA,GO:0051764,BP,actin crosslink formation,Citoesqueleto/tráfico intracelular
+FLNB,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+FLNB,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+FLNB,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+FLNB,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+FLNB,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+FLNB,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+FYN,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+FYN,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+GAPDH,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+GAPDH,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+GAPDH,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+ARHGDIB,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+GSN,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+GSN,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+GSN,GO:0008154,BP,actin polymerization or depolymerization,Citoesqueleto/tráfico intracelular
+GSN,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+GSN,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+GSN,GO:0030041,BP,actin filament polymerization,Citoesqueleto/tráfico intracelular
+GSN,GO:0030042,BP,actin filament depolymerization,Citoesqueleto/tráfico intracelular
+GSN,GO:0030478,CC,actin cap,Citoesqueleto/tráfico intracelular
+GSN,GO:0030864,CC,cortical actin cytoskeleton,Citoesqueleto/tráfico intracelular
+GSN,GO:0051014,BP,actin filament severing,Citoesqueleto/tráfico intracelular
+GSN,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+GSN,GO:0051016,BP,barbed-end actin filament capping,Citoesqueleto/tráfico intracelular
+GSN,GO:0051127,BP,positive regulation of actin nucleation,Citoesqueleto/tráfico intracelular
+GSN,GO:0051693,BP,actin filament capping,Citoesqueleto/tráfico intracelular
+GNAI1,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+GNAI1,GO:1904778,BP,positive regulation of protein localization to cell cortex,Citoesqueleto/tráfico intracelular
+GOLGA2,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+GOLGA2,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+GOLGA2,GO:0007020,BP,microtubule nucleation,Citoesqueleto/tráfico intracelular
+GOLGA2,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+GOLGA4,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+HSPA9,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+HDGF,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+HTT,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+HTT,GO:0005770,CC,late endosome,Citoesqueleto/tráfico intracelular
+HTT,GO:0006890,BP,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",Citoesqueleto/tráfico intracelular
+HTT,GO:0045505,MF,dynein intermediate chain binding,Citoesqueleto/tráfico intracelular
+HTT,GO:0047496,BP,vesicle transport along microtubule,Citoesqueleto/tráfico intracelular
+HTT,GO:0099111,BP,microtubule-based transport,Citoesqueleto/tráfico intracelular
+HNRNPC,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+HNRNPU,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+HNRNPU,GO:1902425,BP,positive regulation of attachment of mitotic spindle microtubules to kinetochore,Citoesqueleto/tráfico intracelular
+HNRNPU,GO:1902889,BP,protein localization to spindle microtubule,Citoesqueleto/tráfico intracelular
+HNRNPU,GO:1990498,CC,mitotic spindle microtubule,Citoesqueleto/tráfico intracelular
+HSPH1,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+HSP90AA1,GO:0010592,BP,positive regulation of lamellipodium assembly,Citoesqueleto/tráfico intracelular
+HSP90AB1,GO:0120293,CC,dynein axonemal particle,Citoesqueleto/tráfico intracelular
+IL1A,GO:0032956,BP,regulation of actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+INCENP,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+INCENP,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+INCENP,GO:1902425,BP,positive regulation of attachment of mitotic spindle microtubules to kinetochore,Citoesqueleto/tráfico intracelular
+ITGB3,GO:0031258,CC,lamellipodium membrane,Citoesqueleto/tráfico intracelular
+ITGB3,GO:0032956,BP,regulation of actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+SPAG9,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+SPAG9,GO:0019894,MF,kinesin binding,Citoesqueleto/tráfico intracelular
+SPAG9,GO:0042147,BP,"retrograde transport, endosome to Golgi",Citoesqueleto/tráfico intracelular
+KALRN,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+KALRN,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+KIF2A,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+KIF2A,GO:0003774,MF,cytoskeletal motor activity,Citoesqueleto/tráfico intracelular
+KIF2A,GO:0003777,MF,microtubule motor activity,Citoesqueleto/tráfico intracelular
+KIF2A,GO:0005871,CC,kinesin complex,Citoesqueleto/tráfico intracelular
+KIF2A,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+KIF2A,GO:0005876,CC,spindle microtubule,Citoesqueleto/tráfico intracelular
+KIF2A,GO:0007018,BP,microtubule-based movement,Citoesqueleto/tráfico intracelular
+KIF2A,GO:0007019,BP,microtubule depolymerization,Citoesqueleto/tráfico intracelular
+KIF2A,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+LIMA1,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+LIMA1,GO:0003785,MF,actin monomer binding,Citoesqueleto/tráfico intracelular
+LIMA1,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+LIMA1,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+LIMA1,GO:0030835,BP,negative regulation of actin filament depolymerization,Citoesqueleto/tráfico intracelular
+LIMA1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+LIMA1,GO:0051017,BP,actin filament bundle assembly,Citoesqueleto/tráfico intracelular
+LIMD1,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+PPFIA1,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+PPFIA1,GO:0043622,BP,cortical microtubule organization,Citoesqueleto/tráfico intracelular
+PPFIA1,GO:0051497,BP,negative regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+LMAN1,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+LMNA,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+LMNA,GO:0005882,CC,intermediate filament,Citoesqueleto/tráfico intracelular
+LMNA,GO:0030951,BP,establishment or maintenance of microtubule cytoskeleton polarity,Citoesqueleto/tráfico intracelular
+LMNB1,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+LMNB1,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+LMNB2,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+LMNB2,GO:0005882,CC,intermediate filament,Citoesqueleto/tráfico intracelular
+LMNB2,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+LRP1,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+LRP1,GO:0005815,CC,microtubule organizing center,Citoesqueleto/tráfico intracelular
+LRP1,GO:0032956,BP,regulation of actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+LRRFIP1,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+LSP1,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+LSP1,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+UBA52,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0001578,BP,microtubule bundle formation,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0005815,CC,microtubule organizing center,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0005875,CC,microtubule associated complex,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0031114,BP,regulation of microtubule depolymerization,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0034454,BP,microtubule anchoring at centrosome,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0047497,BP,mitochondrion transport along microtubule,Citoesqueleto/tráfico intracelular
+MAP1S,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+MAP1S,GO:1990498,CC,mitotic spindle microtubule,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0001578,BP,microtubule bundle formation,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0005815,CC,microtubule organizing center,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0005881,CC,cytoplasmic microtubule,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0030981,CC,cortical microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0031110,BP,regulation of microtubule polymerization or depolymerization,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0031115,BP,negative regulation of microtubule polymerization,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0031116,BP,positive regulation of microtubule polymerization,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0035371,CC,microtubule plus-end,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0035372,BP,protein localization to microtubule,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0046785,BP,microtubule polymerization,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0051010,MF,microtubule plus-end binding,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:0051315,BP,attachment of mitotic spindle microtubules to kinetochore,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:1902888,BP,protein localization to astral microtubule,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:1905721,CC,mitotic spindle astral microtubule end,Citoesqueleto/tráfico intracelular
+MAPRE1,GO:1990498,CC,mitotic spindle microtubule,Citoesqueleto/tráfico intracelular
+MECP2,GO:0090063,BP,positive regulation of microtubule nucleation,Citoesqueleto/tráfico intracelular
+NF2,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+NF2,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+NF2,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+NF2,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+NF2,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+NF2,GO:0030864,CC,cortical actin cytoskeleton,Citoesqueleto/tráfico intracelular
+NF2,GO:0051496,BP,positive regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+NF2,GO:1902966,BP,positive regulation of protein localization to early endosome,Citoesqueleto/tráfico intracelular
+NF2,GO:2000643,BP,positive regulation of early endosome to late endosome transport,Citoesqueleto/tráfico intracelular
+MYL12A,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+MYL12B,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+MYL12B,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+MSN,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+MSN,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+MSN,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+MSN,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+MSN,GO:1902966,BP,positive regulation of protein localization to early endosome,Citoesqueleto/tráfico intracelular
+MSN,GO:2000643,BP,positive regulation of early endosome to late endosome transport,Citoesqueleto/tráfico intracelular
+MTA1,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+MTOR,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+MTOR,GO:0010592,BP,positive regulation of lamellipodium assembly,Citoesqueleto/tráfico intracelular
+MTOR,GO:0030838,BP,positive regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+MTOR,GO:0032956,BP,regulation of actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+MTOR,GO:0051496,BP,positive regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+MYO18A,GO:0005815,CC,microtubule organizing center,Citoesqueleto/tráfico intracelular
+MYO18A,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+MYH9,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+MYH9,GO:0003774,MF,cytoskeletal motor activity,Citoesqueleto/tráfico intracelular
+MYH9,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+MYH9,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+MYH9,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+MYH9,GO:0030048,BP,actin filament-based movement,Citoesqueleto/tráfico intracelular
+MYH9,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+MYH9,GO:1903919,BP,negative regulation of actin filament severing,Citoesqueleto/tráfico intracelular
+MYO9B,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+MYO9B,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+MYO9B,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+MYO9B,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+MYO9B,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+MYO9B,GO:0030048,BP,actin filament-based movement,Citoesqueleto/tráfico intracelular
+MYO9B,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+MYO9B,GO:0072673,BP,lamellipodium morphogenesis,Citoesqueleto/tráfico intracelular
+MYO9B,GO:0098871,CC,postsynaptic actin cytoskeleton,Citoesqueleto/tráfico intracelular
+PPP1R12A,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+PPP1R12A,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+NCK1,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+NCK1,GO:0008093,MF,cytoskeletal anchor activity,Citoesqueleto/tráfico intracelular
+NCK1,GO:0030032,BP,lamellipodium assembly,Citoesqueleto/tráfico intracelular
+NCK1,GO:0030838,BP,positive regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+NCK2,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+NCK2,GO:0008093,MF,cytoskeletal anchor activity,Citoesqueleto/tráfico intracelular
+NCK2,GO:0030032,BP,lamellipodium assembly,Citoesqueleto/tráfico intracelular
+NCK2,GO:0030838,BP,positive regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+NME2,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+NPM1,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+NCL,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0001578,BP,microtubule bundle formation,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0005876,CC,spindle microtubule,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0030953,BP,astral microtubule organization,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0031116,BP,positive regulation of microtubule polymerization,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0032388,BP,positive regulation of intracellular transport,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0035371,CC,microtubule plus-end,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0036449,CC,microtubule minus-end,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0051010,MF,microtubule plus-end binding,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0051011,MF,microtubule minus-end binding,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0055028,CC,cortical microtubule,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0061673,CC,mitotic spindle astral microtubule,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0070840,MF,dynein complex binding,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0097427,CC,microtubule bundle,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0097575,CC,lateral cell cortex,Citoesqueleto/tráfico intracelular
+NUMA1,GO:0099738,CC,cell cortex region,Citoesqueleto/tráfico intracelular
+NUMA1,GO:1904778,BP,positive regulation of protein localization to cell cortex,Citoesqueleto/tráfico intracelular
+NUMA1,GO:1905720,CC,cytoplasmic microtubule bundle,Citoesqueleto/tráfico intracelular
+OCIAD1,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+PI4K2A,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+PI4K2A,GO:0007032,BP,endosome organization,Citoesqueleto/tráfico intracelular
+PI4K2A,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+PI4K2A,GO:0031901,CC,early endosome membrane,Citoesqueleto/tráfico intracelular
+PIK3R2,GO:0030833,BP,regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+PIK3R2,GO:0051492,BP,regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+PAK1,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+PAK1,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+PAK1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+PAK1,GO:0031116,BP,positive regulation of microtubule polymerization,Citoesqueleto/tráfico intracelular
+PAK1,GO:0032956,BP,regulation of actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+PAK1,GO:0051496,BP,positive regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+PAK1,GO:0090063,BP,positive regulation of microtubule nucleation,Citoesqueleto/tráfico intracelular
+PARVB,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+PARVB,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+PARVB,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+PARVB,GO:0030032,BP,lamellipodium assembly,Citoesqueleto/tráfico intracelular
+PARVB,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+PXN,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+PXN,GO:0005875,CC,microtubule associated complex,Citoesqueleto/tráfico intracelular
+PXN,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+PXN,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+PXN,GO:0051496,BP,positive regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+PBXIP1,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+PCIF1,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+PCNT,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+PCNT,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+PCNT,GO:0007020,BP,microtubule nucleation,Citoesqueleto/tráfico intracelular
+PCNT,GO:0090316,BP,positive regulation of intracellular protein transport,Citoesqueleto/tráfico intracelular
+PDIA3,GO:0055038,CC,recycling endosome membrane,Citoesqueleto/tráfico intracelular
+GIGYF2,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+PHIP,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+PKN1,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+PKN2,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+PKN2,GO:0045111,CC,intermediate filament cytoskeleton,Citoesqueleto/tráfico intracelular
+PLD1,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+PLD1,GO:0031902,CC,late endosome membrane,Citoesqueleto/tráfico intracelular
+PLD1,GO:0060627,BP,regulation of vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+PLEC,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+PLEC,GO:0005882,CC,intermediate filament,Citoesqueleto/tráfico intracelular
+PLEC,GO:0045104,BP,intermediate filament cytoskeleton organization,Citoesqueleto/tráfico intracelular
+PLEC,GO:0045109,BP,intermediate filament organization,Citoesqueleto/tráfico intracelular
+PLEC,GO:0045111,CC,intermediate filament cytoskeleton,Citoesqueleto/tráfico intracelular
+PLEC,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+PLEC,GO:2000689,BP,actomyosin contractile ring assembly actin filament organization,Citoesqueleto/tráfico intracelular
+LCP1,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+LCP1,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+LCP1,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+LCP1,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+LCP1,GO:0030866,BP,cortical actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+LCP1,GO:0032432,CC,actin filament bundle,Citoesqueleto/tráfico intracelular
+LCP1,GO:0033157,BP,regulation of intracellular protein transport,Citoesqueleto/tráfico intracelular
+LCP1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+LCP1,GO:0051017,BP,actin filament bundle assembly,Citoesqueleto/tráfico intracelular
+LCP1,GO:0051639,BP,actin filament network formation,Citoesqueleto/tráfico intracelular
+LCP1,GO:0051764,BP,actin crosslink formation,Citoesqueleto/tráfico intracelular
+PML,GO:0031901,CC,early endosome membrane,Citoesqueleto/tráfico intracelular
+PPP1R12C,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+PRPF40A,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+PFN1,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+PFN1,GO:0003785,MF,actin monomer binding,Citoesqueleto/tráfico intracelular
+PFN1,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+PFN1,GO:0005938,CC,cell cortex,Citoesqueleto/tráfico intracelular
+PFN1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+PFN1,GO:0030833,BP,regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+PFN1,GO:0030837,BP,negative regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+PFN1,GO:0030838,BP,positive regulation of actin filament polymerization,Citoesqueleto/tráfico intracelular
+PFN1,GO:0032232,BP,negative regulation of actin filament bundle assembly,Citoesqueleto/tráfico intracelular
+PFN1,GO:0032233,BP,positive regulation of actin filament bundle assembly,Citoesqueleto/tráfico intracelular
+PFN1,GO:0051497,BP,negative regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+PFN1,GO:0098885,BP,modification of postsynaptic actin cytoskeleton,Citoesqueleto/tráfico intracelular
+PTPN23,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+PTPN23,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+PTPN23,GO:0045022,BP,early endosome to late endosome transport,Citoesqueleto/tráfico intracelular
+PTPN23,GO:2000643,BP,positive regulation of early endosome to late endosome transport,Citoesqueleto/tráfico intracelular
+RAB10,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+RAB10,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+RAB10,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+RAB10,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+RAB10,GO:0016197,BP,endosomal transport,Citoesqueleto/tráfico intracelular
+RAB10,GO:0055037,CC,recycling endosome,Citoesqueleto/tráfico intracelular
+RAB10,GO:0055038,CC,recycling endosome membrane,Citoesqueleto/tráfico intracelular
+RAF1,GO:0045104,BP,intermediate filament cytoskeleton organization,Citoesqueleto/tráfico intracelular
+RAP1A,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+RAP1A,GO:0005770,CC,late endosome,Citoesqueleto/tráfico intracelular
+RAP1A,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+ERC1,GO:0042147,BP,"retrograde transport, endosome to Golgi",Citoesqueleto/tráfico intracelular
+RBM39,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+RHOG,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+RHOG,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+RHOG,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+RHOG,GO:0030865,BP,cortical cytoskeleton organization,Citoesqueleto/tráfico intracelular
+RHOG,GO:0032956,BP,regulation of actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ROCK1,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+ROCK1,GO:0030027,CC,lamellipodium,Citoesqueleto/tráfico intracelular
+ROCK1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ROCK1,GO:0030866,BP,cortical actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ROCK1,GO:0032956,BP,regulation of actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+ROCK1,GO:0051492,BP,regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+ROCK1,GO:0070507,BP,regulation of microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+RPS3,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+RPS3,GO:0031116,BP,positive regulation of microtubule polymerization,Citoesqueleto/tráfico intracelular
+RTN3,GO:0016192,BP,vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+RUBCN,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+RUBCN,GO:0005770,CC,late endosome,Citoesqueleto/tráfico intracelular
+S100A9,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+S100A9,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+S100A9,GO:0051493,BP,regulation of cytoskeleton organization,Citoesqueleto/tráfico intracelular
+SEC31A,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+SCAMP3,GO:0006892,BP,post-Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+SCAMP3,GO:0055038,CC,recycling endosome membrane,Citoesqueleto/tráfico intracelular
+SH3KBP1,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+SH3KBP1,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+SH3KBP1,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+INPP5D,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+SMARCA2,GO:0045111,CC,intermediate filament cytoskeleton,Citoesqueleto/tráfico intracelular
+SNTB1,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+SNTB1,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+SNTB2,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+SNTB2,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+SON,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+NCKIPSD,GO:0005882,CC,intermediate filament,Citoesqueleto/tráfico intracelular
+NCKIPSD,GO:0007010,BP,cytoskeleton organization,Citoesqueleto/tráfico intracelular
+NCKIPSD,GO:0008092,MF,cytoskeletal protein binding,Citoesqueleto/tráfico intracelular
+SPTBN1,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+SPTBN1,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+SPTBN1,GO:0014731,CC,spectrin-associated cytoskeleton,Citoesqueleto/tráfico intracelular
+SPTBN1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+SPTBN1,GO:0030864,CC,cortical actin cytoskeleton,Citoesqueleto/tráfico intracelular
+SPTBN1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+SPTBN1,GO:0051693,BP,actin filament capping,Citoesqueleto/tráfico intracelular
+SPTAN1,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+SPTAN1,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+SPTAN1,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+SPTAN1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+SPTAN1,GO:0030864,CC,cortical actin cytoskeleton,Citoesqueleto/tráfico intracelular
+SPTAN1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+SPTAN1,GO:0051693,BP,actin filament capping,Citoesqueleto/tráfico intracelular
+SQSTM1,GO:0005770,CC,late endosome,Citoesqueleto/tráfico intracelular
+SQSTM1,GO:0007032,BP,endosome organization,Citoesqueleto/tráfico intracelular
+SQSTM1,GO:0016197,BP,endosomal transport,Citoesqueleto/tráfico intracelular
+STIM1,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+STIM1,GO:0051010,MF,microtubule plus-end binding,Citoesqueleto/tráfico intracelular
+STMN1,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+STMN1,GO:0007019,BP,microtubule depolymerization,Citoesqueleto/tráfico intracelular
+STMN1,GO:0031110,BP,regulation of microtubule polymerization or depolymerization,Citoesqueleto/tráfico intracelular
+STMN1,GO:0031115,BP,negative regulation of microtubule polymerization,Citoesqueleto/tráfico intracelular
+STMN1,GO:0051497,BP,negative regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+STXBP2,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+TAGLN2,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+TAGLN2,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+TAGLN2,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+TAOK1,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TAOK1,GO:0007026,BP,negative regulation of microtubule depolymerization,Citoesqueleto/tráfico intracelular
+TAOK1,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+TAOK1,GO:0032956,BP,regulation of actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TAOK1,GO:0051493,BP,regulation of cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TAOK1,GO:0070507,BP,regulation of microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0005879,CC,axonemal microtubule,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0007017,BP,microtubule-based process,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0030705,BP,cytoskeleton-dependent intracellular transport,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0046785,BP,microtubule polymerization,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0055037,CC,recycling endosome,Citoesqueleto/tráfico intracelular
+TUBA1A,GO:0072384,BP,organelle transport along microtubule,Citoesqueleto/tráfico intracelular
+TUBA4A,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TUBA4A,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+TUBA4A,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+TUBA4A,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+TUBA4A,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+TUBB2B,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TUBB2B,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+TUBB2B,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+TUBB2B,GO:0007017,BP,microtubule-based process,Citoesqueleto/tráfico intracelular
+TUBB2B,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+TUBB8,GO:0000226,BP,microtubule cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TUBB8,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+TUBB8,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+TUBB8,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+CCT2,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+CCT4,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+VCP,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+VCP,GO:0032510,BP,endosome to lysosome transport via multivesicular body sorting pathway,Citoesqueleto/tráfico intracelular
+TLN1,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+TLN1,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+TLN1,GO:0030036,BP,actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TLN1,GO:0030866,BP,cortical actin cytoskeleton organization,Citoesqueleto/tráfico intracelular
+TLN1,GO:0043622,BP,cortical microtubule organization,Citoesqueleto/tráfico intracelular
+TLN1,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+TMED9,GO:0006886,BP,intracellular protein transport,Citoesqueleto/tráfico intracelular
+TMED9,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+TOR1AIP1,GO:0008092,MF,cytoskeletal protein binding,Citoesqueleto/tráfico intracelular
+TOM1,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+TOM1,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+TOM1,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+TOM1,GO:0016197,BP,endosomal transport,Citoesqueleto/tráfico intracelular
+TOM1,GO:0031901,CC,early endosome membrane,Citoesqueleto/tráfico intracelular
+TOM1,GO:1904978,BP,regulation of endosome organization,Citoesqueleto/tráfico intracelular
+TRAPPC10,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+TRAPPC10,GO:0006891,BP,intra-Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+TRAPPC10,GO:0034498,BP,early endosome to Golgi transport,Citoesqueleto/tráfico intracelular
+TRAPPC12,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+TPM3,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+TPM3,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+TPM3,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+TPM3,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+TPM3,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+TPM3,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+TPM4,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+TPM4,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+TPM4,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+TPM4,GO:0007015,BP,actin filament organization,Citoesqueleto/tráfico intracelular
+TPM4,GO:0030863,CC,cortical cytoskeleton,Citoesqueleto/tráfico intracelular
+TPM4,GO:0051015,MF,actin filament binding,Citoesqueleto/tráfico intracelular
+TPR,GO:0005868,CC,cytoplasmic dynein complex,Citoesqueleto/tráfico intracelular
+TPR,GO:0070840,MF,dynein complex binding,Citoesqueleto/tráfico intracelular
+TPR,GO:0090316,BP,positive regulation of intracellular protein transport,Citoesqueleto/tráfico intracelular
+UBA1,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+UBE2O,GO:0042147,BP,"retrograde transport, endosome to Golgi",Citoesqueleto/tráfico intracelular
+UBR4,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+UBR4,GO:0007032,BP,endosome organization,Citoesqueleto/tráfico intracelular
+UVRAG,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+UVRAG,GO:0005769,CC,early endosome,Citoesqueleto/tráfico intracelular
+UVRAG,GO:0005770,CC,late endosome,Citoesqueleto/tráfico intracelular
+UVRAG,GO:0006890,BP,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",Citoesqueleto/tráfico intracelular
+VAPA,GO:0006888,BP,endoplasmic reticulum to Golgi vesicle-mediated transport,Citoesqueleto/tráfico intracelular
+VAPA,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+VAPA,GO:0015630,CC,microtubule cytoskeleton,Citoesqueleto/tráfico intracelular
+VIM,GO:0005200,MF,structural constituent of cytoskeleton,Citoesqueleto/tráfico intracelular
+VIM,GO:0005815,CC,microtubule organizing center,Citoesqueleto/tráfico intracelular
+VIM,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+VIM,GO:0005882,CC,intermediate filament,Citoesqueleto/tráfico intracelular
+VIM,GO:0045109,BP,intermediate filament organization,Citoesqueleto/tráfico intracelular
+VIM,GO:0045111,CC,intermediate filament cytoskeleton,Citoesqueleto/tráfico intracelular
+VCL,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+VCL,GO:0005856,CC,cytoskeleton,Citoesqueleto/tráfico intracelular
+VCL,GO:0030032,BP,lamellipodium assembly,Citoesqueleto/tráfico intracelular
+VPS4B,GO:0005768,CC,endosome,Citoesqueleto/tráfico intracelular
+VPS4B,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+VPS4B,GO:0016197,BP,endosomal transport,Citoesqueleto/tráfico intracelular
+VPS4B,GO:0031902,CC,late endosome membrane,Citoesqueleto/tráfico intracelular
+VPS4B,GO:0032510,BP,endosome to lysosome transport via multivesicular body sorting pathway,Citoesqueleto/tráfico intracelular
+VPS4B,GO:0061738,BP,late endosomal microautophagy,Citoesqueleto/tráfico intracelular
+VPS4B,GO:0061764,BP,late endosome to lysosome transport via multivesicular body sorting pathway,Citoesqueleto/tráfico intracelular
+VPS53,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+VPS53,GO:0042147,BP,"retrograde transport, endosome to Golgi",Citoesqueleto/tráfico intracelular
+VPS53,GO:0055037,CC,recycling endosome,Citoesqueleto/tráfico intracelular
+WAS,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+WAS,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+WAS,GO:0008064,BP,regulation of actin polymerization or depolymerization,Citoesqueleto/tráfico intracelular
+WAS,GO:0008154,BP,actin polymerization or depolymerization,Citoesqueleto/tráfico intracelular
+WAS,GO:0010591,BP,regulation of lamellipodium assembly,Citoesqueleto/tráfico intracelular
+WAS,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+WAS,GO:0016197,BP,endosomal transport,Citoesqueleto/tráfico intracelular
+WAS,GO:0030041,BP,actin filament polymerization,Citoesqueleto/tráfico intracelular
+WAS,GO:0030048,BP,actin filament-based movement,Citoesqueleto/tráfico intracelular
+WAS,GO:0051492,BP,regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+WAS,GO:0051497,BP,negative regulation of stress fiber assembly,Citoesqueleto/tráfico intracelular
+WIPF1,GO:0003779,MF,actin binding,Citoesqueleto/tráfico intracelular
+WIPF1,GO:0005884,CC,actin filament,Citoesqueleto/tráfico intracelular
+WIPF1,GO:0008154,BP,actin polymerization or depolymerization,Citoesqueleto/tráfico intracelular
+WIPF1,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+WIPF1,GO:0030048,BP,actin filament-based movement,Citoesqueleto/tráfico intracelular
+ZC3HAV1,GO:0005770,CC,late endosome,Citoesqueleto/tráfico intracelular
+ZNF207,GO:0001578,BP,microtubule bundle formation,Citoesqueleto/tráfico intracelular
+ZNF207,GO:0005874,CC,microtubule,Citoesqueleto/tráfico intracelular
+ZNF207,GO:0008017,MF,microtubule binding,Citoesqueleto/tráfico intracelular
+ZNF207,GO:0008608,BP,attachment of spindle microtubules to kinetochore,Citoesqueleto/tráfico intracelular
+ZNF207,GO:0046785,BP,microtubule polymerization,Citoesqueleto/tráfico intracelular
+ZNRF2,GO:0010008,CC,endosome membrane,Citoesqueleto/tráfico intracelular
+ZYX,GO:0001725,CC,stress fiber,Citoesqueleto/tráfico intracelular
+ZYX,GO:0015629,CC,actin cytoskeleton,Citoesqueleto/tráfico intracelular
+ZYX,GO:0043149,BP,stress fiber assembly,Citoesqueleto/tráfico intracelular
+YWHAE,GO:0000165,BP,MAPK cascade,Señalización celular
+YWHAG,GO:0030971,MF,receptor tyrosine kinase binding,Señalización celular
+YWHAG,GO:0050870,BP,positive regulation of T cell activation,Señalización celular
+YWHAZ,GO:0070371,BP,ERK1 and ERK2 cascade,Señalización celular
+YWHAZ,GO:0070372,BP,regulation of ERK1 and ERK2 cascade,Señalización celular
+HLA-A,GO:0036037,BP,"CD8-positive, alpha-beta T cell activation",Señalización celular
+HLA-A,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+HLA-A,GO:2000568,BP,positive regulation of memory T cell activation,Señalización celular
+HLA-A,GO:2001187,BP,"positive regulation of CD8-positive, alpha-beta T cell activation",Señalización celular
+ACTN4,GO:1901224,BP,positive regulation of non-canonical NF-kappaB signal transduction,Señalización celular
+AKAP13,GO:0000165,BP,MAPK cascade,Señalización celular
+AKAP13,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+ANKRD17,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+ARAF,GO:0000165,BP,MAPK cascade,Señalización celular
+ARHGEF2,GO:0051092,BP,positive regulation of NF-kappaB transcription factor activity,Señalización celular
+BAG6,GO:0051132,BP,NK T cell activation,Señalización celular
+BAZ1B,GO:0004715,MF,non-membrane spanning protein tyrosine kinase activity,Señalización celular
+BRD4,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+CACTIN,GO:0032088,BP,negative regulation of NF-kappaB transcription factor activity,Señalización celular
+CACTIN,GO:0043124,BP,negative regulation of canonical NF-kappaB signal transduction,Señalización celular
+CBLB,GO:0030971,MF,receptor tyrosine kinase binding,Señalización celular
+CBLB,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+CBLB,GO:0050860,BP,negative regulation of T cell receptor signaling pathway,Señalización celular
+CREBBP,GO:0007249,BP,canonical NF-kappaB signal transduction,Señalización celular
+CCR7,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+CCR7,GO:0050862,BP,positive regulation of T cell receptor signaling pathway,Señalización celular
+CCR7,GO:0051897,BP,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+CCR7,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+CD3G,GO:0042110,BP,T cell activation,Señalización celular
+CD3G,GO:0046629,BP,gamma-delta T cell activation,Señalización celular
+CD3G,GO:0046631,BP,alpha-beta T cell activation,Señalización celular
+CD3G,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+CD247,GO:0046629,BP,gamma-delta T cell activation,Señalización celular
+CD247,GO:0046631,BP,alpha-beta T cell activation,Señalización celular
+CD247,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+CD247,GO:1990782,MF,protein tyrosine kinase binding,Señalización celular
+CD44,GO:0019221,BP,cytokine-mediated signaling pathway,Señalización celular
+CD44,GO:0042110,BP,T cell activation,Señalización celular
+CD44,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+CDK1,GO:0070371,BP,ERK1 and ERK2 cascade,Señalización celular
+HSPD1,GO:0042110,BP,T cell activation,Señalización celular
+HSPD1,GO:0050870,BP,positive regulation of T cell activation,Señalización celular
+STUB1,GO:0000165,BP,MAPK cascade,Señalización celular
+CD300A,GO:0033007,BP,negative regulation of mast cell activation involved in immune response,Señalización celular
+CD300A,GO:0050856,BP,regulation of T cell receptor signaling pathway,Señalización celular
+CD300A,GO:0051134,BP,negative regulation of NK T cell activation,Señalización celular
+DDX21,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+DDX3X,GO:1901223,BP,negative regulation of non-canonical NF-kappaB signal transduction,Señalización celular
+DDX3X,GO:1901224,BP,positive regulation of non-canonical NF-kappaB signal transduction,Señalización celular
+EIF2AK4,GO:0002286,BP,T cell activation involved in immune response,Señalización celular
+EIF2B4,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+EZR,GO:0050860,BP,negative regulation of T cell receptor signaling pathway,Señalización celular
+EZR,GO:0070373,BP,negative regulation of ERK1 and ERK2 cascade,Señalización celular
+EZR,GO:1903753,BP,negative regulation of p38MAPK cascade,Señalización celular
+PTK2,GO:0004713,MF,protein tyrosine kinase activity,Señalización celular
+PTK2,GO:0004715,MF,non-membrane spanning protein tyrosine kinase activity,Señalización celular
+PTK2,GO:0051897,BP,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+FCER1G,GO:0038156,BP,interleukin-3-mediated signaling pathway,Señalización celular
+FGR,GO:0004713,MF,protein tyrosine kinase activity,Señalización celular
+FGR,GO:0004715,MF,non-membrane spanning protein tyrosine kinase activity,Señalización celular
+FGR,GO:0007169,BP,cell surface receptor protein tyrosine kinase signaling pathway,Señalización celular
+FGR,GO:0051897,BP,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+FLNA,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+FYN,GO:0004713,MF,protein tyrosine kinase activity,Señalización celular
+FYN,GO:0004715,MF,non-membrane spanning protein tyrosine kinase activity,Señalización celular
+FYN,GO:0007169,BP,cell surface receptor protein tyrosine kinase signaling pathway,Señalización celular
+FYN,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+GAPDH,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+GSN,GO:0036313,MF,phosphatidylinositol 3-kinase catalytic subunit binding,Señalización celular
+GNAI2,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+GPR183,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+GSTP1,GO:0032872,BP,regulation of stress-activated MAPK cascade,Señalización celular
+GSTP1,GO:0032873,BP,negative regulation of stress-activated MAPK cascade,Señalización celular
+GSTP1,GO:0043124,BP,negative regulation of canonical NF-kappaB signal transduction,Señalización celular
+GSTP1,GO:0043409,BP,negative regulation of MAPK cascade,Señalización celular
+GSTP1,GO:0070372,BP,regulation of ERK1 and ERK2 cascade,Señalización celular
+GSTP1,GO:0070373,BP,negative regulation of ERK1 and ERK2 cascade,Señalización celular
+HDAC7,GO:1901223,BP,negative regulation of non-canonical NF-kappaB signal transduction,Señalización celular
+HACD3,GO:0007249,BP,canonical NF-kappaB signal transduction,Señalización celular
+HSPH1,GO:0051135,BP,positive regulation of NK T cell activation,Señalización celular
+HSP90AA1,GO:1990782,MF,protein tyrosine kinase binding,Señalización celular
+HUWE1,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+IKBKE,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+IKBKE,GO:0097400,BP,interleukin-17-mediated signaling pathway,Señalización celular
+IL16,GO:0019221,BP,cytokine-mediated signaling pathway,Señalización celular
+IL1A,GO:0019221,BP,cytokine-mediated signaling pathway,Señalización celular
+IL1A,GO:0032874,BP,positive regulation of stress-activated MAPK cascade,Señalización celular
+IL1A,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+IL1A,GO:0070372,BP,regulation of ERK1 and ERK2 cascade,Señalización celular
+IL1A,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+IRF3,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+ITGB3,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+SPAG9,GO:0000165,BP,MAPK cascade,Señalización celular
+SPAG9,GO:0043410,BP,positive regulation of MAPK cascade,Señalización celular
+PRKCA,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+PRKCH,GO:0051092,BP,positive regulation of NF-kappaB transcription factor activity,Señalización celular
+PKM,GO:0004713,MF,protein tyrosine kinase activity,Señalización celular
+RPS6KB1,GO:0004712,MF,protein serine/threonine/tyrosine kinase activity,Señalización celular
+LCK,GO:0004713,MF,protein tyrosine kinase activity,Señalización celular
+LCK,GO:0004715,MF,non-membrane spanning protein tyrosine kinase activity,Señalización celular
+LCK,GO:0007169,BP,cell surface receptor protein tyrosine kinase signaling pathway,Señalización celular
+LCK,GO:0042110,BP,T cell activation,Señalización celular
+LCK,GO:0043548,MF,phosphatidylinositol 3-kinase binding,Señalización celular
+LCK,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+LCK,GO:0050862,BP,positive regulation of T cell receptor signaling pathway,Señalización celular
+LCK,GO:0050870,BP,positive regulation of T cell activation,Señalización celular
+LILRB1,GO:0046636,BP,negative regulation of alpha-beta T cell activation,Señalización celular
+LILRB1,GO:0140105,BP,interleukin-10-mediated signaling pathway,Señalización celular
+LILRB1,GO:2001186,BP,"negative regulation of CD8-positive, alpha-beta T cell activation",Señalización celular
+LILRB1,GO:2001189,BP,negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell,Señalización celular
+LILRB1,GO:2001193,BP,positive regulation of gamma-delta T cell activation involved in immune response,Señalización celular
+SELP,GO:0051897,BP,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+MADD,GO:0043410,BP,positive regulation of MAPK cascade,Señalización celular
+NF2,GO:0000165,BP,MAPK cascade,Señalización celular
+NF2,GO:0043409,BP,negative regulation of MAPK cascade,Señalización celular
+NF2,GO:0046426,BP,negative regulation of receptor signaling pathway via JAK-STAT,Señalización celular
+MIF,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+MAPK14,GO:0038066,BP,p38MAPK cascade,Señalización celular
+MAPK14,GO:0051403,BP,stress-activated MAPK cascade,Señalización celular
+MTOR,GO:0004713,MF,protein tyrosine kinase activity,Señalización celular
+MTOR,GO:0051897,BP,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+MYO18A,GO:0007249,BP,canonical NF-kappaB signal transduction,Señalización celular
+NCK1,GO:0030971,MF,receptor tyrosine kinase binding,Señalización celular
+NCK1,GO:0042110,BP,T cell activation,Señalización celular
+NCK1,GO:0050860,BP,negative regulation of T cell receptor signaling pathway,Señalización celular
+NCK2,GO:0030971,MF,receptor tyrosine kinase binding,Señalización celular
+NCK2,GO:0042110,BP,T cell activation,Señalización celular
+NELFE,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+NFKB1,GO:0007249,BP,canonical NF-kappaB signal transduction,Señalización celular
+NFKB1,GO:0033256,CC,I-kappaB/NF-kappaB complex,Señalización celular
+NFKB1,GO:0035525,CC,NF-kappaB p50/p65 complex,Señalización celular
+NFKB1,GO:0038061,BP,non-canonical NF-kappaB signal transduction,Señalización celular
+NPM1,GO:0051059,MF,NF-kappaB binding,Señalización celular
+NPM1,GO:0051092,BP,positive regulation of NF-kappaB transcription factor activity,Señalización celular
+OCIAD1,GO:0046427,BP,positive regulation of receptor signaling pathway via JAK-STAT,Señalización celular
+PIK3R2,GO:0005943,CC,"phosphatidylinositol 3-kinase complex, class IA",Señalización celular
+PIK3R2,GO:0030971,MF,receptor tyrosine kinase binding,Señalización celular
+PIK3R2,GO:0036312,MF,phosphatidylinositol 3-kinase regulatory subunit binding,Señalización celular
+PIK3R2,GO:0043409,BP,negative regulation of MAPK cascade,Señalización celular
+PIK3R2,GO:0043491,BP,phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+PAK1,GO:0043408,BP,regulation of MAPK cascade,Señalización celular
+PIK3CD,GO:0005942,CC,phosphatidylinositol 3-kinase complex,Señalización celular
+PIK3CD,GO:0005943,CC,"phosphatidylinositol 3-kinase complex, class IA",Señalización celular
+PIK3CD,GO:0042110,BP,T cell activation,Señalización celular
+PIK3CD,GO:0043491,BP,phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+PIK3CD,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+PF4,GO:0019221,BP,cytokine-mediated signaling pathway,Señalización celular
+LCP1,GO:0002286,BP,T cell activation involved in immune response,Señalización celular
+PPIA,GO:0032873,BP,negative regulation of stress-activated MAPK cascade,Señalización celular
+PPIA,GO:0043410,BP,positive regulation of MAPK cascade,Señalización celular
+PPIA,GO:0051092,BP,positive regulation of NF-kappaB transcription factor activity,Señalización celular
+PRDX2,GO:0043410,BP,positive regulation of MAPK cascade,Señalización celular
+PTPRC,GO:0000165,BP,MAPK cascade,Señalización celular
+PTPRC,GO:0001960,BP,negative regulation of cytokine-mediated signaling pathway,Señalización celular
+PTPRC,GO:0030292,MF,protein tyrosine kinase inhibitor activity,Señalización celular
+PTPRC,GO:0042110,BP,T cell activation,Señalización celular
+PTPRC,GO:0043410,BP,positive regulation of MAPK cascade,Señalización celular
+PTPRC,GO:0046426,BP,negative regulation of receptor signaling pathway via JAK-STAT,Señalización celular
+PTPRC,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+PTPRC,GO:0050856,BP,regulation of T cell receptor signaling pathway,Señalización celular
+PTPRC,GO:0070373,BP,negative regulation of ERK1 and ERK2 cascade,Señalización celular
+PTPRC,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+PTPRC,GO:1902215,BP,negative regulation of interleukin-4-mediated signaling pathway,Señalización celular
+RAF1,GO:0000165,BP,MAPK cascade,Señalización celular
+RAF1,GO:0043410,BP,positive regulation of MAPK cascade,Señalización celular
+RAP1A,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+RAP1B,GO:0070374,BP,positive regulation of ERK1 and ERK2 cascade,Señalización celular
+ERC1,GO:0051092,BP,positive regulation of NF-kappaB transcription factor activity,Señalización celular
+TRIM21,GO:0032088,BP,negative regulation of NF-kappaB transcription factor activity,Señalización celular
+ROCK1,GO:0043410,BP,positive regulation of MAPK cascade,Señalización celular
+RPS3,GO:0050862,BP,positive regulation of T cell receptor signaling pathway,Señalización celular
+RPS3,GO:0051092,BP,positive regulation of NF-kappaB transcription factor activity,Señalización celular
+RPS3,GO:0071159,CC,NF-kappaB complex,Señalización celular
+RPS3,GO:1901224,BP,positive regulation of non-canonical NF-kappaB signal transduction,Señalización celular
+RTN4,GO:0051897,BP,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+RUBCN,GO:0051898,BP,negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+RUBCN,GO:0141039,MF,phosphatidylinositol 3-kinase inhibitor activity,Señalización celular
+S100A9,GO:0051092,BP,positive regulation of NF-kappaB transcription factor activity,Señalización celular
+INPP5D,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+SNIP1,GO:0043124,BP,negative regulation of canonical NF-kappaB signal transduction,Señalización celular
+SQSTM1,GO:0030971,MF,receptor tyrosine kinase binding,Señalización celular
+SQSTM1,GO:0043122,BP,regulation of canonical NF-kappaB signal transduction,Señalización celular
+STAT5A,GO:0007259,BP,cell surface receptor signaling pathway via JAK-STAT,Señalización celular
+STAT5A,GO:0019221,BP,cytokine-mediated signaling pathway,Señalización celular
+STAT5A,GO:0035723,BP,interleukin-15-mediated signaling pathway,Señalización celular
+STAT5A,GO:0035771,BP,interleukin-4-mediated signaling pathway,Señalización celular
+STAT5A,GO:0038043,BP,interleukin-5-mediated signaling pathway,Señalización celular
+STAT5A,GO:0038110,BP,interleukin-2-mediated signaling pathway,Señalización celular
+STAT5A,GO:0038111,BP,interleukin-7-mediated signaling pathway,Señalización celular
+STAT5A,GO:0038113,BP,interleukin-9-mediated signaling pathway,Señalización celular
+STAT5A,GO:0038156,BP,interleukin-3-mediated signaling pathway,Señalización celular
+STAT5A,GO:0060397,BP,growth hormone receptor signaling pathway via JAK-STAT,Señalización celular
+STAT5B,GO:0007259,BP,cell surface receptor signaling pathway via JAK-STAT,Señalización celular
+STAT5B,GO:0019221,BP,cytokine-mediated signaling pathway,Señalización celular
+STAT5B,GO:0060397,BP,growth hormone receptor signaling pathway via JAK-STAT,Señalización celular
+STAT1,GO:0007259,BP,cell surface receptor signaling pathway via JAK-STAT,Señalización celular
+STAT1,GO:0038111,BP,interleukin-7-mediated signaling pathway,Señalización celular
+STAT1,GO:0038113,BP,interleukin-9-mediated signaling pathway,Señalización celular
+STAT1,GO:0043124,BP,negative regulation of canonical NF-kappaB signal transduction,Señalización celular
+STAT1,GO:0070106,BP,interleukin-27-mediated signaling pathway,Señalización celular
+STAT3,GO:0007259,BP,cell surface receptor signaling pathway via JAK-STAT,Señalización celular
+STAT3,GO:0019221,BP,cytokine-mediated signaling pathway,Señalización celular
+STAT3,GO:0035723,BP,interleukin-15-mediated signaling pathway,Señalización celular
+STAT3,GO:0038110,BP,interleukin-2-mediated signaling pathway,Señalización celular
+STAT3,GO:0038113,BP,interleukin-9-mediated signaling pathway,Señalización celular
+STAT3,GO:0038154,BP,interleukin-11-mediated signaling pathway,Señalización celular
+STAT3,GO:0038155,BP,interleukin-23-mediated signaling pathway,Señalización celular
+STAT3,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+STAT3,GO:0043491,BP,phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+STAT3,GO:0060397,BP,growth hormone receptor signaling pathway via JAK-STAT,Señalización celular
+STAT3,GO:0070102,BP,interleukin-6-mediated signaling pathway,Señalización celular
+STAT3,GO:0140105,BP,interleukin-10-mediated signaling pathway,Señalización celular
+STAT4,GO:0007259,BP,cell surface receptor signaling pathway via JAK-STAT,Señalización celular
+STAT4,GO:0019221,BP,cytokine-mediated signaling pathway,Señalización celular
+STAT4,GO:0035722,BP,interleukin-12-mediated signaling pathway,Señalización celular
+STAT6,GO:0007259,BP,cell surface receptor signaling pathway via JAK-STAT,Señalización celular
+STAT6,GO:0019221,BP,cytokine-mediated signaling pathway,Señalización celular
+STAT6,GO:0035771,BP,interleukin-4-mediated signaling pathway,Señalización celular
+STAT6,GO:0060397,BP,growth hormone receptor signaling pathway via JAK-STAT,Señalización celular
+TAOK1,GO:0032874,BP,positive regulation of stress-activated MAPK cascade,Señalización celular
+VCP,GO:1901224,BP,positive regulation of non-canonical NF-kappaB signal transduction,Señalización celular
+CD40,GO:0007259,BP,cell surface receptor signaling pathway via JAK-STAT,Señalización celular
+CD40,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+CD40,GO:0043410,BP,positive regulation of MAPK cascade,Señalización celular
+CD40,GO:0043491,BP,phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+CD40,GO:1902216,BP,positive regulation of interleukin-4-mediated signaling pathway,Señalización celular
+FAS,GO:0032872,BP,regulation of stress-activated MAPK cascade,Señalización celular
+TRIM22,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+TRIM22,GO:0051092,BP,positive regulation of NF-kappaB transcription factor activity,Señalización celular
+THBS1,GO:0051897,BP,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+UVRAG,GO:0035032,CC,"phosphatidylinositol 3-kinase complex, class III",Señalización celular
+VAPA,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+VAV1,GO:0051897,BP,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,Señalización celular
+WAS,GO:0042110,BP,T cell activation,Señalización celular
+WNK1,GO:0050852,BP,T cell receptor signaling pathway,Señalización celular
+ZC3HAV1,GO:0043123,BP,positive regulation of canonical NF-kappaB signal transduction,Señalización celular
+TJP2,GO:1990782,MF,protein tyrosine kinase binding,Señalización celular

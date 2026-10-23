@@ -1,0 +1,7 @@
+conjunto,corte,n_terminos,n_genes_distintos,n_grupos
+Dasatinib_up,0.3,36,77,14
+Dasatinib_up,0.5,36,77,10
+Dasatinib_up,0.7,36,77,8
+Dasatinib_down,0.3,3,51,2
+Dasatinib_down,0.5,3,51,1
+Dasatinib_down,0.7,3,51,1

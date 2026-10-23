@@ -1,0 +1,425 @@
+gen,categoria,fuente,terminos
+ABLIM1,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin binding; cytoskeleton organization; actin cytoskeleton; lamellipodium
+ACACA,Citoesqueleto/tráfico intracelular,GO,actin cytoskeleton
+ACIN1,Spliceosoma/procesamiento ARN,GO,"mRNA processing; RNA splicing; negative regulation of mRNA splicing, via spliceosome"
+ACTN1,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin filament; actin filament organization; actin cytoskeleton organization; cortical actin cytoskeleton
+ACTN4,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin binding; actin cytoskeleton; actin cytoskeleton organization; vesicle transport along actin filament
+ACTN4,Señalización celular,GO,positive regulation of non-canonical NF-kappaB signal transduction
+ACTR1A,Citoesqueleto/tráfico intracelular,GO,microtubule associated complex; cell cortex; microtubule cytoskeleton; vesicle-mediated transport
+ADD2,Citoesqueleto/tráfico intracelular,GO,actin binding; structural constituent of cytoskeleton; cytoskeleton; F-actin capping protein complex; actin cytoskeleton organization
+ADD3,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; cytoskeleton; cell cortex; cytoskeleton organization; actin filament binding
+AHCTF1,Poro/transporte nuclear,GO,nuclear pore; nucleocytoplasmic transport; nuclear pore outer ring; nuclear pore complex assembly
+AHNAK,Citoesqueleto/tráfico intracelular,GO,actin cytoskeleton
+AHNAK,Spliceosoma/procesamiento ARN,GO,regulation of RNA splicing
+AKAP13,Citoesqueleto/tráfico intracelular,GO,cell cortex; actin cytoskeleton; cortical actin cytoskeleton
+AKAP13,Señalización celular,GO,MAPK cascade; positive regulation of canonical NF-kappaB signal transduction
+ALDOA,Citoesqueleto/tráfico intracelular,GO,actin binding; actin filament organization; cytoskeletal protein binding; actin cytoskeleton
+ALYREF,Poro/transporte nuclear,GO,RNA export from nucleus; mRNA export from nucleus
+ALYREF,Spliceosoma/procesamiento ARN,GO,mRNA processing; RNA splicing; catalytic step 2 spliceosome
+ANKRD17,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction
+ANXA1,Citoesqueleto/tráfico intracelular,GO,endosome; actin filament; actin cytoskeleton organization; early endosome membrane
+ANXA2,Citoesqueleto/tráfico intracelular,GO,endosome; early endosome; cytoskeletal protein binding; late endosome membrane
+AP2M1,Citoesqueleto/tráfico intracelular,GO,intracellular protein transport; vesicle-mediated transport
+AP3B1,Citoesqueleto/tráfico intracelular,GO,early endosome; intracellular protein transport; vesicle-mediated transport; intracellular transport
+AP3D1,Citoesqueleto/tráfico intracelular,GO,early endosome; intracellular protein transport; endosome membrane; synaptic vesicle budding from endosome; vesicle-mediated transport
+APOA1,Citoesqueleto/tráfico intracelular,GO,early endosome; positive regulation of stress fiber assembly
+ARAF,Señalización celular,GO,MAPK cascade
+ARHGDIB,Citoesqueleto/tráfico intracelular,GO,cytoskeleton
+ARHGEF2,Citoesqueleto/tráfico intracelular,GO,cytoskeleton; microtubule; intracellular protein transport; actin filament organization; negative regulation of microtubule depolymerization
+ARHGEF2,Señalización celular,GO,positive regulation of NF-kappaB transcription factor activity
+ARHGEF6,Citoesqueleto/tráfico intracelular,GO,lamellipodium; lamellipodium assembly
+ARHGEF7,Citoesqueleto/tráfico intracelular,GO,cell cortex; lamellipodium; lamellipodium assembly; negative regulation of microtubule nucleation; positive regulation of lamellipodium morphogenesis
+ARPC3,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; actin cytoskeleton; lamellipodium; regulation of actin filament polymerization; filamentous actin
+ARPC4,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; actin filament polymerization; Arp2/3 complex-mediated actin nucleation; actin nucleation; actin filament binding
+BAG6,Señalización celular,GO,NK T cell activation
+BASP1,Citoesqueleto/tráfico intracelular,GO,cytoskeleton
+BAZ1B,Señalización celular,GO,non-membrane spanning protein tyrosine kinase activity
+BRD4,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction
+BSG,Citoesqueleto/tráfico intracelular,GO,endosome
+CACTIN,Señalización celular,GO,negative regulation of NF-kappaB transcription factor activity; negative regulation of canonical NF-kappaB signal transduction
+CACTIN,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; mRNA cis splicing, via spliceosome; catalytic step 2 spliceosome"
+CAPN2,Citoesqueleto/tráfico intracelular,GO,cytoskeletal protein binding; cortical actin cytoskeleton; regulation of cytoskeleton organization
+CAPZA1,Citoesqueleto/tráfico intracelular,GO,actin binding; cytoskeleton; F-actin capping protein complex; actin cytoskeleton; actin cytoskeleton organization
+CAPZB,Citoesqueleto/tráfico intracelular,GO,actin binding; cytoskeleton; cytoskeleton organization; actin polymerization or depolymerization; actin cytoskeleton
+CBLB,Poro/transporte nuclear,GO,NLS-bearing protein import into nucleus
+CBLB,Señalización celular,GO,receptor tyrosine kinase binding; T cell receptor signaling pathway; negative regulation of T cell receptor signaling pathway
+CCAR2,Spliceosoma/procesamiento ARN,GO,mRNA processing; RNA splicing
+CCR7,Citoesqueleto/tráfico intracelular,GO,positive regulation of actin filament polymerization
+CCR7,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction; positive regulation of T cell receptor signaling pathway; positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction; positive regulation of ERK1 and ERK2 cascade
+CCT2,Citoesqueleto/tráfico intracelular,GO,microtubule
+CCT4,Citoesqueleto/tráfico intracelular,GO,microtubule
+CCZ1B,Citoesqueleto/tráfico intracelular,GO,vesicle-mediated transport
+CD247,Señalización celular,GO,gamma-delta T cell activation; alpha-beta T cell activation; T cell receptor signaling pathway; protein tyrosine kinase binding
+CD300A,Señalización celular,GO,negative regulation of mast cell activation involved in immune response; regulation of T cell receptor signaling pathway; negative regulation of NK T cell activation
+CD3G,Señalización celular,GO,T cell activation; gamma-delta T cell activation; alpha-beta T cell activation; T cell receptor signaling pathway
+CD40,Señalización celular,GO,cell surface receptor signaling pathway via JAK-STAT; positive regulation of canonical NF-kappaB signal transduction; positive regulation of MAPK cascade; phosphatidylinositol 3-kinase/protein kinase B signal transduction; positive regulation of interleukin-4-mediated signaling pathway
+CD44,Citoesqueleto/tráfico intracelular,GO,lamellipodium membrane; regulation of lamellipodium morphogenesis
+CD44,Señalización celular,GO,cytokine-mediated signaling pathway; T cell activation; positive regulation of ERK1 and ERK2 cascade
+CDC40,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; U2-type catalytic step 2 spliceosome; catalytic step 2 spliceosome"
+CDK1,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; spindle microtubule; regulation of attachment of mitotic spindle microtubules to kinetochore; microtubule cytoskeleton organization involved in mitosis
+CDK1,Señalización celular,GO,ERK1 and ERK2 cascade
+CDK11B,Spliceosoma/procesamiento ARN,GO,regulation of RNA splicing; regulation of mRNA processing
+CDK13,Spliceosoma/procesamiento ARN,GO,"alternative mRNA splicing, via spliceosome"
+CEP170,Citoesqueleto/tráfico intracelular,GO,microtubule
+CFL1,Citoesqueleto/tráfico intracelular,GO,cytoskeleton organization; actin cytoskeleton; lamellipodium; actin cytoskeleton organization; actin filament depolymerization
+CKAP4,Citoesqueleto/tráfico intracelular,GO,cytoskeleton
+COPA,Citoesqueleto/tráfico intracelular,GO,"intracellular protein transport; endoplasmic reticulum to Golgi vesicle-mediated transport; retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum; intra-Golgi vesicle-mediated transport"
+COPB2,Citoesqueleto/tráfico intracelular,GO,"intracellular protein transport; endoplasmic reticulum to Golgi vesicle-mediated transport; retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum; intra-Golgi vesicle-mediated transport"
+CREBBP,Señalización celular,GO,canonical NF-kappaB signal transduction
+CSTF3,Spliceosoma/procesamiento ARN,GO,"co-transcriptional mRNA 3'-end processing, cleavage and polyadenylation pathway"
+CTSD,Citoesqueleto/tráfico intracelular,GO,endosome membrane; endosome lumen
+CWC22,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; regulation of mRNA splicing, via spliceosome; U2-type precatalytic spliceosome; U2-type catalytic step 1 spliceosome"
+DDX17,Spliceosoma/procesamiento ARN,GO,"alternative mRNA splicing, via spliceosome; regulation of alternative mRNA splicing, via spliceosome"
+DDX21,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction
+DDX23,Spliceosoma/procesamiento ARN,GO,"cis assembly of pre-catalytic spliceosome; RNA splicing, via transesterification reactions; mRNA splicing, via spliceosome; RNA splicing; catalytic step 2 spliceosome"
+DDX3X,Citoesqueleto/tráfico intracelular,GO,lamellipodium
+DDX3X,Señalización celular,GO,negative regulation of non-canonical NF-kappaB signal transduction; positive regulation of non-canonical NF-kappaB signal transduction
+DES,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; intermediate filament; cytoskeleton organization; cytoskeletal protein binding; intermediate filament organization
+DHX8,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; RNA splicing; U2-type catalytic step 2 spliceosome; catalytic step 2 spliceosome"
+DNAJA1,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton
+DNAJB6,Citoesqueleto/tráfico intracelular,GO,actin cytoskeleton organization; intermediate filament organization
+DNM1L,Citoesqueleto/tráfico intracelular,GO,microtubule; microtubule binding
+DOCK2,Citoesqueleto/tráfico intracelular,GO,cytoskeleton; actin cytoskeleton organization
+DYNC1LI1,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; cytoplasmic dynein complex; microtubule; microtubule-based movement; dynein heavy chain binding
+DYNC1LI2,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; late endosome; cytoplasmic dynein complex; microtubule; microtubule-based movement
+EIF2AK4,Señalización celular,GO,T cell activation involved in immune response
+EIF2B4,Señalización celular,GO,T cell receptor signaling pathway
+ELAVL1,Poro/transporte nuclear,GO,protein import into nucleus
+ELMO1,Citoesqueleto/tráfico intracelular,GO,actin filament organization; actin cytoskeleton organization
+EML2,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; microtubule; microtubule associated complex; microtubule binding; regulation of microtubule nucleation
+EML3,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; spindle microtubule; microtubule binding; microtubule cytoskeleton; mitotic spindle microtubule
+ENO1,Citoesqueleto/tráfico intracelular,GO,cell cortex
+EPB41,Citoesqueleto/tráfico intracelular,GO,actin binding; structural constituent of cytoskeleton; cytoskeleton; cell cortex; spectrin-associated cytoskeleton
+EPB41L2,Citoesqueleto/tráfico intracelular,GO,actin binding; cytoskeleton; cell cortex; cortical actin cytoskeleton organization; positive regulation of protein localization to cell cortex
+EPB41L3,Citoesqueleto/tráfico intracelular,GO,actin binding; structural constituent of cytoskeleton; cytoskeleton; cortical cytoskeleton organization; cortical actin cytoskeleton organization
+EPS15,Citoesqueleto/tráfico intracelular,GO,Golgi to endosome transport; endosomal transport; early endosome membrane
+ERC1,Citoesqueleto/tráfico intracelular,GO,"retrograde transport, endosome to Golgi"
+ERC1,Señalización celular,GO,positive regulation of NF-kappaB transcription factor activity
+EVL,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin binding; actin filament organization; actin polymerization or depolymerization; lamellipodium
+EZR,Citoesqueleto/tráfico intracelular,GO,actin binding; endosome; actin filament; microtubule binding; actin cytoskeleton
+EZR,Señalización celular,GO,negative regulation of T cell receptor signaling pathway; negative regulation of ERK1 and ERK2 cascade; negative regulation of p38MAPK cascade
+FAS,Señalización celular,GO,regulation of stress-activated MAPK cascade
+FCER1G,Señalización celular,GO,interleukin-3-mediated signaling pathway
+FGR,Citoesqueleto/tráfico intracelular,GO,cytoskeleton; actin cytoskeleton
+FGR,Señalización celular,GO,protein tyrosine kinase activity; non-membrane spanning protein tyrosine kinase activity; cell surface receptor protein tyrosine kinase signaling pathway; positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+FKBP4,Citoesqueleto/tráfico intracelular,GO,microtubule; negative regulation of microtubule polymerization or depolymerization; negative regulation of microtubule polymerization
+FLNA,Citoesqueleto/tráfico intracelular,GO,actin filament; actin cytoskeleton; actin cytoskeleton organization; cortical cytoskeleton; positive regulation of actin filament bundle assembly
+FLNA,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction
+FLNB,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin binding; cell cortex; actin cytoskeleton; actin cytoskeleton organization
+FYN,Citoesqueleto/tráfico intracelular,GO,endosome; actin filament
+FYN,Señalización celular,GO,protein tyrosine kinase activity; non-membrane spanning protein tyrosine kinase activity; cell surface receptor protein tyrosine kinase signaling pathway; T cell receptor signaling pathway
+GAPDH,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; microtubule binding; microtubule cytoskeleton
+GAPDH,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction
+GIGYF2,Citoesqueleto/tráfico intracelular,GO,endosome
+GNAI1,Citoesqueleto/tráfico intracelular,GO,cell cortex; positive regulation of protein localization to cell cortex
+GNAI2,Señalización celular,GO,positive regulation of ERK1 and ERK2 cascade
+GOLGA2,Citoesqueleto/tráfico intracelular,GO,microtubule; endoplasmic reticulum to Golgi vesicle-mediated transport; microtubule nucleation; microtubule binding
+GOLGA4,Citoesqueleto/tráfico intracelular,GO,vesicle-mediated transport
+GPR183,Señalización celular,GO,positive regulation of ERK1 and ERK2 cascade
+GSN,Citoesqueleto/tráfico intracelular,GO,actin binding; actin filament organization; actin polymerization or depolymerization; actin cytoskeleton; lamellipodium
+GSN,Señalización celular,GO,phosphatidylinositol 3-kinase catalytic subunit binding
+GSTP1,Señalización celular,GO,regulation of stress-activated MAPK cascade; negative regulation of stress-activated MAPK cascade; negative regulation of canonical NF-kappaB signal transduction; negative regulation of MAPK cascade; regulation of ERK1 and ERK2 cascade
+HACD3,Señalización celular,GO,canonical NF-kappaB signal transduction
+HDAC7,Señalización celular,GO,negative regulation of non-canonical NF-kappaB signal transduction
+HDAC7,Spliceosoma/procesamiento ARN,GO,regulation of mRNA processing
+HDGF,Citoesqueleto/tráfico intracelular,GO,actin binding
+HLA-A,Citoesqueleto/tráfico intracelular,GO,early endosome membrane; recycling endosome membrane
+HLA-A,Señalización celular,GO,"CD8-positive, alpha-beta T cell activation; T cell receptor signaling pathway; positive regulation of memory T cell activation; positive regulation of CD8-positive, alpha-beta T cell activation"
+HMGA1,Complejo de preintegración,Panel dirigido (script 03),
+HNRNPA0,Spliceosoma/procesamiento ARN,GO,mRNA processing
+HNRNPA1,Poro/transporte nuclear,GO,RNA export from nucleus; nuclear export; import into nucleus
+HNRNPA1,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome; spliceosomal complex; regulation of RNA splicing; catalytic step 2 spliceosome"
+HNRNPA1L2,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; catalytic step 2 spliceosome"
+HNRNPA2B1,Poro/transporte nuclear,GO,mRNA export from nucleus
+HNRNPA2B1,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; mRNA processing; catalytic step 2 spliceosome"
+HNRNPA3,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; catalytic step 2 spliceosome"
+HNRNPC,Citoesqueleto/tráfico intracelular,GO,actin cytoskeleton
+HNRNPC,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; RNA splicing; catalytic step 2 spliceosome"
+HNRNPDL,Spliceosoma/procesamiento ARN,GO,spliceosomal complex
+HNRNPH2,Spliceosoma/procesamiento ARN,GO,regulation of RNA splicing
+HNRNPK,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; regulation of mRNA splicing, via spliceosome; negative regulation of mRNA splicing, via spliceosome; catalytic step 2 spliceosome"
+HNRNPU,Citoesqueleto/tráfico intracelular,GO,actin binding; positive regulation of attachment of mitotic spindle microtubules to kinetochore; protein localization to spindle microtubule; mitotic spindle microtubule
+HNRNPU,Spliceosoma/procesamiento ARN,GO,"alternative mRNA splicing, via spliceosome; regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome; catalytic step 2 spliceosome"
+HNRNPUL2,Spliceosoma/procesamiento ARN,GO,"alternative mRNA splicing, via spliceosome"
+HSP90AA1,Citoesqueleto/tráfico intracelular,GO,positive regulation of lamellipodium assembly
+HSP90AA1,Señalización celular,GO,protein tyrosine kinase binding
+HSP90AB1,Citoesqueleto/tráfico intracelular,GO,dynein axonemal particle
+HSP90B1,Citoesqueleto/tráfico intracelular,GO,actin rod assembly
+HSPA8,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex"
+HSPA9,Citoesqueleto/tráfico intracelular,GO,intracellular protein transport
+HSPA9,Poro/transporte nuclear,GO,protein export from nucleus
+HSPD1,Citoesqueleto/tráfico intracelular,GO,early endosome
+HSPD1,Señalización celular,GO,T cell activation; positive regulation of T cell activation
+HSPH1,Citoesqueleto/tráfico intracelular,GO,microtubule
+HSPH1,Señalización celular,GO,positive regulation of NK T cell activation
+HTATSF1,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; U2-type spliceosomal complex; U2-type prespliceosome assembly"
+HTT,Citoesqueleto/tráfico intracelular,GO,"early endosome; late endosome; retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum; dynein intermediate chain binding; vesicle transport along microtubule"
+HUWE1,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction
+IKBKE,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction; interleukin-17-mediated signaling pathway
+IL16,Señalización celular,GO,cytokine-mediated signaling pathway
+IL1A,Citoesqueleto/tráfico intracelular,GO,regulation of actin cytoskeleton organization
+IL1A,Señalización celular,GO,cytokine-mediated signaling pathway; positive regulation of stress-activated MAPK cascade; positive regulation of canonical NF-kappaB signal transduction; regulation of ERK1 and ERK2 cascade; positive regulation of ERK1 and ERK2 cascade
+ILF3,Spliceosoma/procesamiento ARN,GO,spliceosome-depend formation of circular RNA
+INCENP,Citoesqueleto/tráfico intracelular,GO,microtubule; microtubule cytoskeleton; positive regulation of attachment of mitotic spindle microtubules to kinetochore
+INPP5D,Citoesqueleto/tráfico intracelular,GO,cytoskeleton
+INPP5D,Señalización celular,GO,T cell receptor signaling pathway
+IRF3,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction
+ITGB3,Citoesqueleto/tráfico intracelular,GO,lamellipodium membrane; regulation of actin cytoskeleton organization
+ITGB3,Señalización celular,GO,positive regulation of ERK1 and ERK2 cascade
+KALRN,Citoesqueleto/tráfico intracelular,GO,actin cytoskeleton; vesicle-mediated transport
+KHDRBS3,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; mRNA processing"
+KIF2A,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; cytoskeletal motor activity; microtubule motor activity; kinesin complex; microtubule
+KPNA1,Poro/transporte nuclear,GO,nuclear pore; protein import into nucleus; NLS-bearing protein import into nucleus; nuclear localization sequence binding; NLS-dependent protein nuclear import complex
+LARP7,Spliceosoma/procesamiento ARN,GO,"mRNA processing; RNA splicing; regulation of mRNA splicing, via spliceosome"
+LCK,Señalización celular,GO + Hallazgo cruce NCBI (script 04),protein tyrosine kinase activity; non-membrane spanning protein tyrosine kinase activity; cell surface receptor protein tyrosine kinase signaling pathway; T cell activation; phosphatidylinositol 3-kinase binding
+LCP1,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin binding; actin filament; actin cytoskeleton; cortical actin cytoskeleton organization
+LCP1,Señalización celular,GO,T cell activation involved in immune response
+LIG3,Complejo de preintegración,GO,double-strand break repair via alternative nonhomologous end joining
+LILRB1,Señalización celular,GO,"negative regulation of alpha-beta T cell activation; interleukin-10-mediated signaling pathway; negative regulation of CD8-positive, alpha-beta T cell activation; negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell; positive regulation of gamma-delta T cell activation involved in immune response"
+LIMA1,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin monomer binding; actin filament; actin cytoskeleton; negative regulation of actin filament depolymerization
+LIMD1,Citoesqueleto/tráfico intracelular,GO,cytoskeleton organization
+LMAN1,Citoesqueleto/tráfico intracelular,GO,endoplasmic reticulum to Golgi vesicle-mediated transport
+LMNA,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; intermediate filament; establishment or maintenance of microtubule cytoskeleton polarity
+LMNA,Poro/transporte nuclear,GO,protein import into nucleus; nuclear pore localization
+LMNB1,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; cytoskeleton organization
+LMNB1,Poro/transporte nuclear,GO,nuclear pore localization
+LMNB2,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; intermediate filament; cytoskeleton organization
+LMNB2,Poro/transporte nuclear,GO,nuclear pore localization
+LRP1,Citoesqueleto/tráfico intracelular,GO,early endosome; microtubule organizing center; regulation of actin cytoskeleton organization
+LRRFIP1,Citoesqueleto/tráfico intracelular,GO,cytoskeleton
+LSP1,Citoesqueleto/tráfico intracelular,GO,actin binding; actin cytoskeleton
+MADD,Señalización celular,GO,positive regulation of MAPK cascade
+MAP1S,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; microtubule bundle formation; actin binding; microtubule organizing center; microtubule
+MAP4,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; microtubule organizing center; microtubule; microtubule associated complex; microtubule binding
+MAPK14,Señalización celular,GO + Hallazgo cruce NCBI (script 04),p38MAPK cascade; stress-activated MAPK cascade
+MAPRE1,Citoesqueleto/tráfico intracelular,GO,microtubule bundle formation; microtubule organizing center; microtubule; cytoplasmic microtubule; cortical microtubule cytoskeleton
+MCM3AP,Poro/transporte nuclear,GO,mRNA export from nucleus; poly(A)+ mRNA export from nucleus; nuclear pore nuclear basket
+MECP2,Citoesqueleto/tráfico intracelular,GO,positive regulation of microtubule nucleation
+MFAP1,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; U2-type spliceosomal complex; U2-type precatalytic spliceosome"
+MIF,Señalización celular,GO,positive regulation of ERK1 and ERK2 cascade
+MSN,Citoesqueleto/tráfico intracelular,GO,actin binding; structural constituent of cytoskeleton; cytoskeleton; cytoskeleton organization; positive regulation of protein localization to early endosome
+MTA1,Citoesqueleto/tráfico intracelular,GO,microtubule
+MTOR,Citoesqueleto/tráfico intracelular,GO,cytoskeleton organization; positive regulation of lamellipodium assembly; positive regulation of actin filament polymerization; regulation of actin cytoskeleton organization; positive regulation of stress fiber assembly
+MTOR,Señalización celular,GO,protein tyrosine kinase activity; positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+MYBBP1A,Poro/transporte nuclear,GO,NLS-dependent protein nuclear import complex
+MYH9,Citoesqueleto/tráfico intracelular,GO,stress fiber; cytoskeletal motor activity; actin binding; actin cytoskeleton; actin cytoskeleton organization
+MYL12A,Citoesqueleto/tráfico intracelular,GO,stress fiber
+MYL12B,Citoesqueleto/tráfico intracelular,GO,stress fiber; cell cortex
+MYO18A,Citoesqueleto/tráfico intracelular,GO,microtubule organizing center; actin filament binding
+MYO18A,Señalización celular,GO,canonical NF-kappaB signal transduction
+MYO9B,Citoesqueleto/tráfico intracelular,GO,actin binding; actin filament; cell cortex; actin cytoskeleton; lamellipodium
+NBN,Complejo de preintegración,GO,double-strand break repair via alternative nonhomologous end joining
+NCK1,Citoesqueleto/tráfico intracelular,GO,actin filament organization; cytoskeletal anchor activity; lamellipodium assembly; positive regulation of actin filament polymerization
+NCK1,Señalización celular,GO,receptor tyrosine kinase binding; T cell activation; negative regulation of T cell receptor signaling pathway
+NCK2,Citoesqueleto/tráfico intracelular,GO,actin filament organization; cytoskeletal anchor activity; lamellipodium assembly; positive regulation of actin filament polymerization
+NCK2,Señalización celular,GO,receptor tyrosine kinase binding; T cell activation
+NCKIPSD,Citoesqueleto/tráfico intracelular,GO,intermediate filament; cytoskeleton organization; cytoskeletal protein binding
+NCL,Citoesqueleto/tráfico intracelular,GO,cell cortex
+NCL,Spliceosoma/procesamiento ARN,GO,"spliceosomal complex; positive regulation of mRNA splicing, via spliceosome"
+NELFE,Señalización celular,GO,positive regulation of ERK1 and ERK2 cascade
+NF2,Citoesqueleto/tráfico intracelular,GO,actin binding; early endosome; cytoskeleton; lamellipodium; actin cytoskeleton organization
+NF2,Señalización celular,GO,MAPK cascade; negative regulation of MAPK cascade; negative regulation of receptor signaling pathway via JAK-STAT
+NFKB1,Señalización celular,GO + Hallazgo cruce NCBI (script 04),canonical NF-kappaB signal transduction; I-kappaB/NF-kappaB complex; NF-kappaB p50/p65 complex; non-canonical NF-kappaB signal transduction
+NME2,Citoesqueleto/tráfico intracelular,GO,lamellipodium
+NONO,Spliceosoma/procesamiento ARN,GO,mRNA processing; RNA splicing
+NPM1,Citoesqueleto/tráfico intracelular,GO,intracellular protein transport
+NPM1,Poro/transporte nuclear,GO,ribosomal large subunit export from nucleus; ribosomal small subunit export from nucleus; protein import into nucleus; nucleocytoplasmic transport
+NPM1,Señalización celular,GO,NF-kappaB binding; positive regulation of NF-kappaB transcription factor activity
+NSRP1,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; mRNA processing; RNA splicing"
+NSUN2,Spliceosoma/procesamiento ARN,GO,mRNA processing
+NUMA1,Citoesqueleto/tráfico intracelular,GO,microtubule bundle formation; spindle microtubule; cell cortex; microtubule binding; astral microtubule organization
+NUP153,Poro/transporte nuclear,GO,nuclear pore; RNA export from nucleus; protein import into nucleus; nucleocytoplasmic transport; nuclear localization sequence binding
+NUP155,Poro/transporte nuclear,GO,nuclear pore; RNA export from nucleus; mRNA export from nucleus; protein import into nucleus; nucleocytoplasmic transport
+NUP188,Poro/transporte nuclear,GO,nuclear pore; RNA export from nucleus; protein import into nucleus; nucleocytoplasmic transport; structural constituent of nuclear pore
+NUP210,Poro/transporte nuclear,GO,nuclear pore; nucleocytoplasmic transport
+NUP214,Poro/transporte nuclear,GO,nuclear export signal receptor activity; nuclear pore; RNA export from nucleus; mRNA export from nucleus; protein import into nucleus
+OCIAD1,Citoesqueleto/tráfico intracelular,GO,endosome
+OCIAD1,Señalización celular,GO,positive regulation of receptor signaling pathway via JAK-STAT
+PAK1,Citoesqueleto/tráfico intracelular,GO,actin filament; lamellipodium; actin cytoskeleton organization; positive regulation of microtubule polymerization; regulation of actin cytoskeleton organization
+PAK1,Señalización celular,GO,regulation of MAPK cascade
+PARVB,Citoesqueleto/tráfico intracelular,GO,actin binding; actin cytoskeleton; lamellipodium; lamellipodium assembly; actin cytoskeleton organization
+PBXIP1,Citoesqueleto/tráfico intracelular,GO,microtubule
+PCIF1,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton
+PCIF1,Spliceosoma/procesamiento ARN,GO,mRNA processing
+PCNT,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; microtubule; microtubule nucleation; positive regulation of intracellular protein transport
+PDIA3,Citoesqueleto/tráfico intracelular,GO,recycling endosome membrane
+PF4,Señalización celular,GO,cytokine-mediated signaling pathway
+PFN1,Citoesqueleto/tráfico intracelular,GO,actin binding; actin monomer binding; cytoskeleton; cell cortex; actin cytoskeleton organization
+PHIP,Citoesqueleto/tráfico intracelular,GO,cytoskeleton organization
+PI4K2A,Citoesqueleto/tráfico intracelular,GO,endosome; endosome organization; endosome membrane; early endosome membrane
+PIK3CD,Señalización celular,GO + Hallazgo cruce NCBI (script 04),"phosphatidylinositol 3-kinase complex; phosphatidylinositol 3-kinase complex, class IA; T cell activation; phosphatidylinositol 3-kinase/protein kinase B signal transduction; T cell receptor signaling pathway"
+PIK3R2,Citoesqueleto/tráfico intracelular,GO,regulation of actin filament polymerization; regulation of stress fiber assembly
+PIK3R2,Señalización celular,GO,"phosphatidylinositol 3-kinase complex, class IA; receptor tyrosine kinase binding; phosphatidylinositol 3-kinase regulatory subunit binding; negative regulation of MAPK cascade; phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+PKM,Señalización celular,GO,protein tyrosine kinase activity
+PKN1,Citoesqueleto/tráfico intracelular,GO,endosome
+PKN2,Citoesqueleto/tráfico intracelular,GO,lamellipodium; intermediate filament cytoskeleton
+PLD1,Citoesqueleto/tráfico intracelular,GO,endosome; late endosome membrane; regulation of vesicle-mediated transport
+PLEC,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; intermediate filament; intermediate filament cytoskeleton organization; intermediate filament organization; intermediate filament cytoskeleton
+PML,Citoesqueleto/tráfico intracelular,GO,early endosome membrane
+PML,Poro/transporte nuclear,GO,protein import into nucleus
+PPFIA1,Citoesqueleto/tráfico intracelular,GO,cell cortex; cortical microtubule organization; negative regulation of stress fiber assembly
+PPIA,Complejo de preintegración,Panel dirigido (script 03),
+PPIA,Señalización celular,GO,negative regulation of stress-activated MAPK cascade; positive regulation of MAPK cascade; positive regulation of NF-kappaB transcription factor activity
+PPIG,Spliceosoma/procesamiento ARN,GO,RNA splicing
+PPP1R12A,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin cytoskeleton
+PPP1R12C,Citoesqueleto/tráfico intracelular,GO,stress fiber
+PRDX2,Señalización celular,GO,positive regulation of MAPK cascade
+PRKCA,Señalización celular,GO,positive regulation of ERK1 and ERK2 cascade
+PRKCH,Señalización celular,GO,positive regulation of NF-kappaB transcription factor activity
+PRKDC,Complejo de preintegración,GO + Anotación UniProt/GO (NHEJ),double-strand break repair via nonhomologous end joining; nonhomologous end joining complex; double-strand break repair via alternative nonhomologous end joining; positive regulation of double-strand break repair via nonhomologous end joining
+PRPF31,Spliceosoma/procesamiento ARN,GO,"spliceosomal tri-snRNP complex assembly; mRNA splicing, via spliceosome; U2-type spliceosomal complex; U2-type precatalytic spliceosome; precatalytic spliceosome"
+PRPF38B,Spliceosoma/procesamiento ARN,GO,mRNA processing; RNA splicing; precatalytic spliceosome
+PRPF40A,Citoesqueleto/tráfico intracelular,GO,cytoskeleton organization
+PRPF40A,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; mRNA cis splicing, via spliceosome; U2-type prespliceosome"
+PSIP1,Complejo de preintegración,Panel dirigido (script 03),
+PSIP1,Spliceosoma/procesamiento ARN,GO,mRNA 5'-splice site recognition
+PTBP1,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; mRNA processing; RNA splicing; negative regulation of RNA splicing; regulation of RNA splicing"
+PTK2,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin binding; cytoskeleton; cell cortex; regulation of cytoskeleton organization
+PTK2,Señalización celular,GO,protein tyrosine kinase activity; non-membrane spanning protein tyrosine kinase activity; positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+PTPN23,Citoesqueleto/tráfico intracelular,GO,endosome; early endosome; early endosome to late endosome transport; positive regulation of early endosome to late endosome transport
+PTPRC,Señalización celular,GO,MAPK cascade; negative regulation of cytokine-mediated signaling pathway; protein tyrosine kinase inhibitor activity; T cell activation; positive regulation of MAPK cascade
+PXN,Citoesqueleto/tráfico intracelular,GO,stress fiber; microtubule associated complex; cell cortex; lamellipodium; positive regulation of stress fiber assembly
+RAB10,Citoesqueleto/tráfico intracelular,GO,endosome; cytoskeleton; endosome membrane; vesicle-mediated transport; endosomal transport
+RAF1,Citoesqueleto/tráfico intracelular,GO,intermediate filament cytoskeleton organization
+RAF1,Señalización celular,GO,MAPK cascade; positive regulation of MAPK cascade
+RANBP2,Poro/transporte nuclear,GO + Panel dirigido (script 03),nuclear pore; NLS-bearing protein import into nucleus; nucleocytoplasmic transport; nuclear pore cytoplasmic filaments; nuclear pore nuclear basket
+RAP1A,Citoesqueleto/tráfico intracelular,GO,early endosome; late endosome; endosome membrane
+RAP1A,Señalización celular,GO,positive regulation of ERK1 and ERK2 cascade
+RAP1B,Señalización celular,GO,positive regulation of ERK1 and ERK2 cascade
+RBBP6,Spliceosoma/procesamiento ARN,GO,mRNA processing
+RBM10,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; negative regulation of mRNA splicing, via spliceosome"
+RBM15,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome"
+RBM15B,Poro/transporte nuclear,GO,mRNA export from nucleus
+RBM15B,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; mRNA processing; RNA splicing"
+RBM39,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton
+RBM39,Spliceosoma/procesamiento ARN,GO,"mRNA processing; RNA splicing; regulation of mRNA splicing, via spliceosome"
+RBM5,Spliceosoma/procesamiento ARN,GO,"spliceosomal complex assembly; regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome; spliceosomal complex"
+RBM7,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome"
+RBM8A,Poro/transporte nuclear,GO,mRNA export from nucleus
+RBM8A,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome; RNA splicing; regulation of mRNA processing; U2-type catalytic step 1 spliceosome"
+RBMX,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome; spliceosomal complex; supraspliceosomal complex; negative regulation of mRNA splicing, via spliceosome"
+RCSD1,Citoesqueleto/tráfico intracelular,GO,"early endosome; actin filament; protein localization to endosome; retrograde transport, endosome to Golgi; actin filament binding"
+RHOG,Citoesqueleto/tráfico intracelular,GO,cytoskeleton; actin filament organization; actin cytoskeleton organization; cortical cytoskeleton organization; regulation of actin cytoskeleton organization
+RNPS1,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; mRNA splicing, via spliceosome; RNA splicing; negative regulation of mRNA splicing, via spliceosome"
+ROCK1,Citoesqueleto/tráfico intracelular,GO,cytoskeleton; lamellipodium; actin cytoskeleton organization; cortical actin cytoskeleton organization; regulation of actin cytoskeleton organization
+ROCK1,Señalización celular,GO,positive regulation of MAPK cascade
+RPRD2,Spliceosoma/procesamiento ARN,GO,mRNA 3'-end processing
+RPS3,Citoesqueleto/tráfico intracelular,GO,microtubule binding; positive regulation of microtubule polymerization
+RPS3,Señalización celular,GO,positive regulation of T cell receptor signaling pathway; positive regulation of NF-kappaB transcription factor activity; NF-kappaB complex; positive regulation of non-canonical NF-kappaB signal transduction
+RPS6KB1,Señalización celular,GO,protein serine/threonine/tyrosine kinase activity
+RTN3,Citoesqueleto/tráfico intracelular,GO,vesicle-mediated transport
+RTN4,Poro/transporte nuclear,GO,nuclear pore complex assembly
+RTN4,Señalización celular,GO,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+RUBCN,Citoesqueleto/tráfico intracelular,GO,early endosome; late endosome
+RUBCN,Señalización celular,GO,negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction; phosphatidylinositol 3-kinase inhibitor activity
+S100A9,Citoesqueleto/tráfico intracelular,GO,cytoskeleton; microtubule binding; regulation of cytoskeleton organization
+S100A9,Señalización celular,GO,positive regulation of NF-kappaB transcription factor activity
+SAFB,Spliceosoma/procesamiento ARN,GO,regulation of mRNA processing
+SART1,Spliceosoma/procesamiento ARN,GO,"spliceosomal snRNP assembly; mRNA splicing, via spliceosome; mRNA cis splicing, via spliceosome; U2-type precatalytic spliceosome; catalytic step 2 spliceosome"
+SCAF1,Spliceosoma/procesamiento ARN,GO,mRNA processing; RNA splicing
+SCAMP3,Citoesqueleto/tráfico intracelular,GO,post-Golgi vesicle-mediated transport; recycling endosome membrane
+SEC31A,Citoesqueleto/tráfico intracelular,GO,endoplasmic reticulum to Golgi vesicle-mediated transport
+SELP,Señalización celular,GO,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+SF3B1,Spliceosoma/procesamiento ARN,GO,"spliceosomal complex assembly; RNA splicing, via transesterification reactions; mRNA splicing, via spliceosome; spliceosomal complex; U2-type spliceosomal complex"
+SF3B2,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; U2-type spliceosomal complex; U12-type spliceosomal complex; mRNA processing"
+SF3B3,Spliceosoma/procesamiento ARN,GO,"RNA splicing, via transesterification reactions; mRNA splicing, via spliceosome; spliceosomal complex; U2-type spliceosomal complex; U12-type spliceosomal complex"
+SFPQ,Spliceosoma/procesamiento ARN,GO,"alternative mRNA splicing, via spliceosome; mRNA processing; RNA splicing"
+SH3KBP1,Citoesqueleto/tráfico intracelular,GO,cytoskeleton; cytoskeleton organization; actin filament organization
+SMARCA2,Citoesqueleto/tráfico intracelular,GO,intermediate filament cytoskeleton
+SNIP1,Señalización celular,GO,negative regulation of canonical NF-kappaB signal transduction
+SNIP1,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; U2-type precatalytic spliceosome; U2-type prespliceosome assembly"
+SNRNP200,Spliceosoma/procesamiento ARN,GO,"cis assembly of pre-catalytic spliceosome; spliceosome conformational change to release U4 (or U4atac) and U1 (or U11); mRNA splicing, via spliceosome; spliceosomal complex; U2-type precatalytic spliceosome"
+SNRNP70,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; regulation of RNA splicing; positive regulation of mRNA splicing, via spliceosome; U2-type prespliceosome"
+SNTB1,Citoesqueleto/tráfico intracelular,GO,actin binding; cytoskeleton
+SNTB2,Citoesqueleto/tráfico intracelular,GO,actin binding; microtubule
+SON,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization
+SON,Spliceosoma/procesamiento ARN,GO,"mRNA processing; RNA splicing; regulation of RNA splicing; regulation of mRNA splicing, via spliceosome"
+SPAG9,Citoesqueleto/tráfico intracelular,GO,"vesicle-mediated transport; kinesin binding; retrograde transport, endosome to Golgi"
+SPAG9,Señalización celular,GO,MAPK cascade; positive regulation of MAPK cascade
+SPTAN1,Citoesqueleto/tráfico intracelular,GO,actin binding; structural constituent of cytoskeleton; microtubule cytoskeleton; actin cytoskeleton organization; cortical actin cytoskeleton
+SPTBN1,Citoesqueleto/tráfico intracelular,GO,actin binding; structural constituent of cytoskeleton; spectrin-associated cytoskeleton; actin cytoskeleton organization; cortical actin cytoskeleton
+SQSTM1,Citoesqueleto/tráfico intracelular,GO,late endosome; endosome organization; endosomal transport
+SQSTM1,Poro/transporte nuclear,GO,protein import into nucleus
+SQSTM1,Señalización celular,GO,receptor tyrosine kinase binding; regulation of canonical NF-kappaB signal transduction
+SRRM1,Spliceosoma/procesamiento ARN,GO,"RNA splicing, via transesterification reactions; mRNA splicing, via spliceosome; spliceosomal complex; RNA splicing; regulation of mRNA splicing, via spliceosome"
+SRRM2,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; U2-type precatalytic spliceosome; U2-type catalytic step 2 spliceosome; catalytic step 2 spliceosome"
+SRRT,Spliceosoma/procesamiento ARN,GO,mRNA processing
+SRSF1,Spliceosoma/procesamiento ARN,GO,"alternative mRNA splicing, via spliceosome; mRNA 5'-splice site recognition; mRNA splicing, via spliceosome; mRNA splice site recognition; mRNA processing"
+SRSF10,Spliceosoma/procesamiento ARN,GO,"spliceosomal tri-snRNP complex assembly; RNA splicing, via transesterification reactions; mRNA splicing, via spliceosome; mRNA splice site recognition; regulation of mRNA splicing, via spliceosome"
+SRSF11,Spliceosoma/procesamiento ARN,GO,mRNA processing; RNA splicing
+SRSF2,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; spliceosomal complex; mRNA processing; RNA splicing"
+SRSF9,Spliceosoma/procesamiento ARN,GO,"alternative mRNA splicing, via spliceosome; mRNA splice site recognition; mRNA processing; negative regulation of mRNA splicing, via spliceosome"
+SSB,Poro/transporte nuclear,GO,tRNA export from nucleus
+STAT1,Señalización celular,GO + Hallazgo cruce NCBI (script 04),cell surface receptor signaling pathway via JAK-STAT; interleukin-7-mediated signaling pathway; interleukin-9-mediated signaling pathway; negative regulation of canonical NF-kappaB signal transduction; interleukin-27-mediated signaling pathway
+STAT3,Poro/transporte nuclear,GO,protein import into nucleus
+STAT3,Señalización celular,GO + Hallazgo cruce NCBI (script 04),cell surface receptor signaling pathway via JAK-STAT; cytokine-mediated signaling pathway; interleukin-15-mediated signaling pathway; interleukin-2-mediated signaling pathway; interleukin-9-mediated signaling pathway
+STAT4,Señalización celular,GO,cell surface receptor signaling pathway via JAK-STAT; cytokine-mediated signaling pathway; interleukin-12-mediated signaling pathway
+STAT5A,Señalización celular,GO,cell surface receptor signaling pathway via JAK-STAT; cytokine-mediated signaling pathway; interleukin-15-mediated signaling pathway; interleukin-4-mediated signaling pathway; interleukin-5-mediated signaling pathway
+STAT5B,Señalización celular,GO,cell surface receptor signaling pathway via JAK-STAT; cytokine-mediated signaling pathway; growth hormone receptor signaling pathway via JAK-STAT
+STAT6,Señalización celular,GO,cell surface receptor signaling pathway via JAK-STAT; cytokine-mediated signaling pathway; interleukin-4-mediated signaling pathway; growth hormone receptor signaling pathway via JAK-STAT
+STIM1,Citoesqueleto/tráfico intracelular,GO,microtubule; microtubule plus-end binding
+STMN1,Citoesqueleto/tráfico intracelular,GO,microtubule; microtubule depolymerization; regulation of microtubule polymerization or depolymerization; negative regulation of microtubule polymerization; negative regulation of stress fiber assembly
+STUB1,Señalización celular,GO,MAPK cascade
+STXBP2,Citoesqueleto/tráfico intracelular,GO,intracellular protein transport
+TAF15,Spliceosoma/procesamiento ARN,GO,RNA splicing
+TAGLN2,Citoesqueleto/tráfico intracelular,GO,actin filament organization; actin cytoskeleton; actin filament binding
+TAOK1,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; negative regulation of microtubule depolymerization; microtubule cytoskeleton; regulation of actin cytoskeleton organization; regulation of cytoskeleton organization
+TAOK1,Señalización celular,GO,positive regulation of stress-activated MAPK cascade
+THBS1,Señalización celular,GO,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+THRAP3,Spliceosoma/procesamiento ARN,GO,"regulation of alternative mRNA splicing, via spliceosome; mRNA processing; RNA splicing; positive regulation of mRNA splicing, via spliceosome"
+TJP2,Señalización celular,GO,protein tyrosine kinase binding
+TLN1,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; cytoskeleton; actin cytoskeleton organization; cortical actin cytoskeleton organization; cortical microtubule organization
+TMED9,Citoesqueleto/tráfico intracelular,GO,intracellular protein transport; endoplasmic reticulum to Golgi vesicle-mediated transport
+TOM1,Citoesqueleto/tráfico intracelular,GO,endosome; early endosome; endosome membrane; endosomal transport; early endosome membrane
+TOP2B,Complejo de preintegración,GO,positive regulation of double-strand break repair via nonhomologous end joining
+TOR1AIP1,Citoesqueleto/tráfico intracelular,GO,cytoskeletal protein binding
+TP53BP1,Complejo de preintegración,GO,double-strand break repair via nonhomologous end joining; double-strand break repair via classical nonhomologous end joining
+TPM3,Citoesqueleto/tráfico intracelular,GO,stress fiber; cytoskeleton; actin filament; actin filament organization; actin cytoskeleton
+TPM4,Citoesqueleto/tráfico intracelular,GO,stress fiber; cytoskeleton; actin filament; actin filament organization; cortical cytoskeleton
+TPR,Citoesqueleto/tráfico intracelular,GO,cytoplasmic dynein complex; dynein complex binding; positive regulation of intracellular protein transport
+TPR,Poro/transporte nuclear,GO,nuclear pore; RNA import into nucleus; RNA export from nucleus; mRNA export from nucleus; protein import into nucleus
+TRA2A,Spliceosoma/procesamiento ARN,GO,"mRNA splicing, via spliceosome; spliceosomal complex; positive regulation of mRNA splicing, via spliceosome"
+TRAPPC10,Citoesqueleto/tráfico intracelular,GO,endoplasmic reticulum to Golgi vesicle-mediated transport; intra-Golgi vesicle-mediated transport; early endosome to Golgi transport
+TRAPPC12,Citoesqueleto/tráfico intracelular,GO,endoplasmic reticulum to Golgi vesicle-mediated transport
+TRIM21,Señalización celular,GO,negative regulation of NF-kappaB transcription factor activity
+TRIM22,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction; positive regulation of NF-kappaB transcription factor activity
+TUBA1A,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; structural constituent of cytoskeleton; microtubule; axonemal microtubule; intracellular protein transport
+TUBA4A,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; structural constituent of cytoskeleton; cytoskeleton; microtubule; microtubule cytoskeleton
+TUBB2B,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; structural constituent of cytoskeleton; microtubule; microtubule-based process; microtubule cytoskeleton
+TUBB8,Citoesqueleto/tráfico intracelular,GO,microtubule cytoskeleton organization; structural constituent of cytoskeleton; microtubule; microtubule cytoskeleton
+U2AF2,Spliceosoma/procesamiento ARN,GO,"spliceosomal complex assembly; mRNA splicing, via spliceosome; spliceosomal complex; mRNA processing; pre-mRNA 3'-splice site binding"
+UBA1,Citoesqueleto/tráfico intracelular,GO,endosome membrane
+UBA52,Citoesqueleto/tráfico intracelular,GO,endosome membrane
+UBE2O,Citoesqueleto/tráfico intracelular,GO,"retrograde transport, endosome to Golgi"
+UBR4,Citoesqueleto/tráfico intracelular,GO,endosome; endosome organization
+UVRAG,Citoesqueleto/tráfico intracelular,GO,"endosome; early endosome; late endosome; retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum"
+UVRAG,Complejo de preintegración,GO,double-strand break repair via classical nonhomologous end joining
+UVRAG,Señalización celular,GO,"phosphatidylinositol 3-kinase complex, class III"
+VAPA,Citoesqueleto/tráfico intracelular,GO,endoplasmic reticulum to Golgi vesicle-mediated transport; microtubule binding; microtubule cytoskeleton
+VAPA,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction
+VAV1,Señalización celular,GO,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+VCL,Citoesqueleto/tráfico intracelular,GO,actin binding; cytoskeleton; lamellipodium assembly
+VCP,Citoesqueleto/tráfico intracelular,GO,endoplasmic reticulum to Golgi vesicle-mediated transport; endosome to lysosome transport via multivesicular body sorting pathway
+VCP,Señalización celular,GO,positive regulation of non-canonical NF-kappaB signal transduction
+VIM,Citoesqueleto/tráfico intracelular,GO,structural constituent of cytoskeleton; microtubule organizing center; cytoskeleton; intermediate filament; intermediate filament organization
+VPS4B,Citoesqueleto/tráfico intracelular,GO,endosome; endosome membrane; endosomal transport; late endosome membrane; endosome to lysosome transport via multivesicular body sorting pathway
+VPS4B,Poro/transporte nuclear,GO,nuclear pore
+VPS53,Citoesqueleto/tráfico intracelular,GO,"endosome membrane; retrograde transport, endosome to Golgi; recycling endosome"
+WAS,Citoesqueleto/tráfico intracelular,GO,actin binding; actin filament; regulation of actin polymerization or depolymerization; actin polymerization or depolymerization; regulation of lamellipodium assembly
+WAS,Señalización celular,GO,T cell activation
+WIPF1,Citoesqueleto/tráfico intracelular,GO,actin binding; actin filament; actin polymerization or depolymerization; actin cytoskeleton; actin filament-based movement
+WNK1,Señalización celular,GO,T cell receptor signaling pathway
+XPO4,Poro/transporte nuclear,GO,nuclear export signal receptor activity; nuclear pore; protein export from nucleus
+XRCC5,Complejo de preintegración,GO + Panel dirigido (script 03),double-strand break repair via nonhomologous end joining; nonhomologous end joining complex
+XRCC6,Complejo de preintegración,GO + Panel dirigido (script 03),double-strand break repair via nonhomologous end joining; nonhomologous end joining complex; double-strand break repair via classical nonhomologous end joining
+YBX1,Spliceosoma/procesamiento ARN,GO,U12-type spliceosomal complex; mRNA processing; RNA splicing
+YWHAE,Señalización celular,GO,MAPK cascade
+YWHAG,Señalización celular,GO,receptor tyrosine kinase binding; positive regulation of T cell activation
+YWHAH,Citoesqueleto/tráfico intracelular,GO,actin binding; intracellular protein transport
+YWHAZ,Señalización celular,GO,ERK1 and ERK2 cascade; regulation of ERK1 and ERK2 cascade
+ZC3HAV1,Citoesqueleto/tráfico intracelular,GO,late endosome
+ZC3HAV1,Señalización celular,GO,positive regulation of canonical NF-kappaB signal transduction
+ZC3HC1,Poro/transporte nuclear,GO,nuclear pore nuclear basket
+ZNF207,Citoesqueleto/tráfico intracelular,GO,microtubule bundle formation; microtubule; microtubule binding; attachment of spindle microtubules to kinetochore; microtubule polymerization
+ZNRF2,Citoesqueleto/tráfico intracelular,GO,endosome membrane
+ZYX,Citoesqueleto/tráfico intracelular,GO,stress fiber; actin cytoskeleton; stress fiber assembly

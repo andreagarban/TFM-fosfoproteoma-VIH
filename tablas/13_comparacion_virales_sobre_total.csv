@@ -1,0 +1,42 @@
+bloque,proteinas_virales,n_bloque,pct_sobre_total_bloque,n_referencia,pct_sobre_total_referencia,dif_pp_total
+Dasatinib | down | Citoesqueleto,Envelope surface glycoprotein gp120,22,23.4,145,15.8,7.6
+Dasatinib | down | Citoesqueleto,Nef,18,19.1,115,12.6,6.5
+Dasatinib | down | Citoesqueleto,Vpr,17,18.1,109,11.9,6.2
+Dasatinib | down | Citoesqueleto,Tat,15,16,178,19.5,-3.5
+Dasatinib | down | Citoesqueleto,Pr55(Gag),12,12.8,122,13.3,-0.5
+Dasatinib | down | Citoesqueleto,retropepsin,10,10.6,55,6,4.6
+Dasatinib | down | Citoesqueleto,matrix,5,5.3,29,3.2,2.1
+Dasatinib | down | Citoesqueleto,Gag-Pol,4,4.3,61,6.7,-2.4
+Dasatinib | down | Citoesqueleto,Rev,4,4.3,53,5.8,-1.5
+Dasatinib | down | Citoesqueleto,"Envelope surface glycoprotein gp160, precursor",3,3.2,40,4.4,-1.2
+Dasatinib | down | Citoesqueleto,capsid,3,3.2,36,3.9,-0.7
+Dasatinib | down | Citoesqueleto,Vif,2,2.1,40,4.4,-2.3
+Dasatinib | down | Citoesqueleto,integrase,1,1.1,36,3.9,-2.8
+Dasatinib | down | Citoesqueleto,Envelope transmembrane glycoprotein gp41,1,1.1,28,3.1,-2
+Dasatinib | down | Citoesqueleto,Vpu,1,1.1,24,2.6,-1.5
+Dasatinib | down | Citoesqueleto,Pol,0,0,11,1.2,-1.2
+Dasatinib | down | Citoesqueleto,reverse transcriptase,0,0,11,1.2,-1.2
+Dasatinib | down | Citoesqueleto,nucleocapsid,0,0,10,1.1,-1.1
+Dasatinib | down | Citoesqueleto,Asp,0,0,1,0.1,-0.1
+Dasatinib | down | Citoesqueleto,p6,0,0,1,0.1,-0.1
+Dasatinib | down | Citoesqueleto,reverse transcriptase p51 subunit,0,0,1,0.1,-0.1
+Dasatinib | up | Spliceosoma/splicing,Pr55(Gag),10,50,41,29.5,20.5
+Dasatinib | up | Spliceosoma/splicing,Envelope surface glycoprotein gp120,10,50,37,26.6,23.4
+Dasatinib | up | Spliceosoma/splicing,Rev,10,50,21,15.1,34.9
+Dasatinib | up | Spliceosoma/splicing,Nef,9,45,31,22.3,22.7
+Dasatinib | up | Spliceosoma/splicing,Gag-Pol,9,45,25,18,27
+Dasatinib | up | Spliceosoma/splicing,Tat,7,35,39,28.1,6.9
+Dasatinib | up | Spliceosoma/splicing,Vpr,3,15,28,20.1,-5.1
+Dasatinib | up | Spliceosoma/splicing,retropepsin,3,15,20,14.4,0.6
+Dasatinib | up | Spliceosoma/splicing,matrix,3,15,11,7.9,7.1
+Dasatinib | up | Spliceosoma/splicing,"Envelope surface glycoprotein gp160, precursor",2,10,4,2.9,7.1
+Dasatinib | up | Spliceosoma/splicing,Vif,1,5,8,5.8,-0.8
+Dasatinib | up | Spliceosoma/splicing,nucleocapsid,1,5,4,2.9,2.1
+Dasatinib | up | Spliceosoma/splicing,reverse transcriptase,1,5,3,2.2,2.8
+Dasatinib | up | Spliceosoma/splicing,capsid,0,0,8,5.8,-5.8
+Dasatinib | up | Spliceosoma/splicing,integrase,0,0,6,4.3,-4.3
+Dasatinib | up | Spliceosoma/splicing,Vpu,0,0,5,3.6,-3.6
+Dasatinib | up | Spliceosoma/splicing,Envelope transmembrane glycoprotein gp41,0,0,3,2.2,-2.2
+Dasatinib | up | Spliceosoma/splicing,Pol,0,0,3,2.2,-2.2
+Dasatinib | up | Spliceosoma/splicing,Asp,0,0,1,0.7,-0.7
+Dasatinib | up | Spliceosoma/splicing,p6,0,0,1,0.7,-0.7

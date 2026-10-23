@@ -1,0 +1,47 @@
+bloque,proteinas_virales,n_genes
+Dasatinib | down | Citoesqueleto,Envelope surface glycoprotein gp120,22
+Dasatinib | down | Citoesqueleto,Nef,18
+Dasatinib | down | Citoesqueleto,Vpr,17
+Dasatinib | down | Citoesqueleto,Tat,15
+Dasatinib | down | Citoesqueleto,Pr55(Gag),12
+Dasatinib | down | Citoesqueleto,retropepsin,10
+Dasatinib | down | Citoesqueleto,matrix,5
+Dasatinib | down | Citoesqueleto,Gag-Pol,4
+Dasatinib | down | Citoesqueleto,Rev,4
+Dasatinib | down | Citoesqueleto,"Envelope surface glycoprotein gp160, precursor",3
+Dasatinib | down | Citoesqueleto,capsid,3
+Dasatinib | down | Citoesqueleto,Vif,2
+Dasatinib | down | Citoesqueleto,Envelope transmembrane glycoprotein gp41,1
+Dasatinib | down | Citoesqueleto,Vpu,1
+Dasatinib | down | Citoesqueleto,integrase,1
+Dasatinib | up | Senalizacion celular,Envelope surface glycoprotein gp120,1
+Dasatinib | up | Senalizacion celular,Tat,1
+Dasatinib | up | Senalizacion celular,capsid,1
+Dasatinib | up | Senalizacion celular,matrix,1
+Dasatinib | up | Senalizacion celular,nucleocapsid,1
+Dasatinib | up | Senalizacion celular,retropepsin,1
+Dasatinib | up | Spliceosoma/splicing,Envelope surface glycoprotein gp120,10
+Dasatinib | up | Spliceosoma/splicing,Pr55(Gag),10
+Dasatinib | up | Spliceosoma/splicing,Rev,10
+Dasatinib | up | Spliceosoma/splicing,Gag-Pol,9
+Dasatinib | up | Spliceosoma/splicing,Nef,9
+Dasatinib | up | Spliceosoma/splicing,Tat,7
+Dasatinib | up | Spliceosoma/splicing,Vpr,3
+Dasatinib | up | Spliceosoma/splicing,matrix,3
+Dasatinib | up | Spliceosoma/splicing,retropepsin,3
+Dasatinib | up | Spliceosoma/splicing,"Envelope surface glycoprotein gp160, precursor",2
+Dasatinib | up | Spliceosoma/splicing,Vif,1
+Dasatinib | up | Spliceosoma/splicing,nucleocapsid,1
+Dasatinib | up | Spliceosoma/splicing,reverse transcriptase,1
+Imatinib | up | Spliceosoma/splicing,Pr55(Gag),9
+Imatinib | up | Spliceosoma/splicing,Rev,9
+Imatinib | up | Spliceosoma/splicing,Nef,7
+Imatinib | up | Spliceosoma/splicing,Envelope surface glycoprotein gp120,6
+Imatinib | up | Spliceosoma/splicing,Gag-Pol,6
+Imatinib | up | Spliceosoma/splicing,Tat,6
+Imatinib | up | Spliceosoma/splicing,Vpr,3
+Imatinib | up | Spliceosoma/splicing,retropepsin,2
+Imatinib | up | Spliceosoma/splicing,Vif,1
+Imatinib | up | Spliceosoma/splicing,capsid,1
+Imatinib | up | Spliceosoma/splicing,integrase,1
+Imatinib | up | Spliceosoma/splicing,matrix,1

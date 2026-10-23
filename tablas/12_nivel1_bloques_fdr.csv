@@ -1,0 +1,85 @@
+bloque,gen,proteinas_virales,tipos_interaccion
+Dasatinib | down | Citoesqueleto,ACTN1,retropepsin; Vpr,cleaves; upregulates
+Dasatinib | down | Citoesqueleto,ACTN4,Envelope transmembrane glycoprotein gp41; Vpr,inhibits; upregulates
+Dasatinib | down | Citoesqueleto,ADD3,Vif,downregulates
+Dasatinib | down | Citoesqueleto,APOA1,Envelope surface glycoprotein gp120; Nef,competes with; inhibits
+Dasatinib | down | Citoesqueleto,ARHGEF7,Nef,induces complex with
+Dasatinib | down | Citoesqueleto,ARPC4,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag),complexes with
+Dasatinib | down | Citoesqueleto,CAPN2,Envelope surface glycoprotein gp120; Tat,activates; upregulates
+Dasatinib | down | Citoesqueleto,CAPZA1,Vpr,upregulates
+Dasatinib | down | Citoesqueleto,CAPZB,Tat,interacts with
+Dasatinib | down | Citoesqueleto,EML2,Envelope surface glycoprotein gp120,upregulates
+Dasatinib | down | Citoesqueleto,EPB41,Pr55(Gag),incorporates
+Dasatinib | down | Citoesqueleto,EPB41L2,Pr55(Gag),incorporates
+Dasatinib | down | Citoesqueleto,EPB41L3,Pr55(Gag),incorporates
+Dasatinib | down | Citoesqueleto,EVL,Envelope surface glycoprotein gp120,interacts with
+Dasatinib | down | Citoesqueleto,EZR,Envelope surface glycoprotein gp120; matrix; Nef; Pr55(Gag); Tat; Vpr,binds; co-localizes with; downregulates; enhances; incorporates; induces phosphorylation of; interacts with; relocalizes; upregulates
+Dasatinib | down | Citoesqueleto,FLNA,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); retropepsin; Tat; Vpr,binds; cleaves; co-localizes with; complexes with; incorporates; interacts with; upregulates
+Dasatinib | down | Citoesqueleto,GSN,Envelope surface glycoprotein gp120; Tat; Vpr,downregulates; inhibited by; upregulates
+Dasatinib | down | Citoesqueleto,HDGF,Vpr,downregulates
+Dasatinib | down | Citoesqueleto,HSP90B1,"Envelope surface glycoprotein gp160, precursor; Nef; Rev",cooperates with; interacts with; requires
+Dasatinib | down | Citoesqueleto,LCP1,"Envelope surface glycoprotein gp120; Envelope surface glycoprotein gp160, precursor; retropepsin",cleaved by; cleaves; downregulates
+Dasatinib | down | Citoesqueleto,LIMA1,Tat,interacts with
+Dasatinib | down | Citoesqueleto,LSP1,Envelope surface glycoprotein gp120,associates with; interacts with; regulated by; upregulates
+Dasatinib | down | Citoesqueleto,MAP1S,capsid,activated by; interacts with; regulated by
+Dasatinib | down | Citoesqueleto,MAPRE1,Vpr,interacts with; relocalizes
+Dasatinib | down | Citoesqueleto,MSN,Envelope surface glycoprotein gp120; Pr55(Gag); Vpr; Vpu,binds; co-localizes with; downregulates; incorporates; induces phosphorylation of; interacts with; modulated by; relocalizes
+Dasatinib | down | Citoesqueleto,MTOR,capsid; Envelope surface glycoprotein gp120; Nef; Tat,activates; induces phosphorylation of; regulated by; upregulates
+Dasatinib | down | Citoesqueleto,MYH9,Envelope surface glycoprotein gp120; Nef; Pr55(Gag); retropepsin; Tat; Vpr,cleaves; downregulates; interacts with; upregulates
+Dasatinib | down | Citoesqueleto,MYO18A,Envelope surface glycoprotein gp120,upregulates
+Dasatinib | down | Citoesqueleto,NF2,Nef,induces phosphorylation of
+Dasatinib | down | Citoesqueleto,NPM1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev; Tat; Vpr,activated by; associates with; binds; co-localizes with; complexes with; downregulates; interacts with; regulated by; stimulated by; upregulates
+Dasatinib | down | Citoesqueleto,NUMA1,retropepsin; Tat,cleaves; interacts with
+Dasatinib | down | Citoesqueleto,PAK1,Envelope surface glycoprotein gp120; Nef; Tat,activates; associates with; inhibits; interacts with; regulated by
+Dasatinib | down | Citoesqueleto,PFN1,Vpr,downregulates
+Dasatinib | down | Citoesqueleto,PIK3R2,"Envelope surface glycoprotein gp120; Envelope surface glycoprotein gp160, precursor; Nef; Tat",activates; associates with; complexes with; downregulates; induces phosphorylation of; inhibited by; inhibits; interacts with; mediated by; modulated by; regulated by; relocalizes; upregulates
+Dasatinib | down | Citoesqueleto,PLEC,Vif; Vpr,relocalizes; upregulates
+Dasatinib | down | Citoesqueleto,PPFIA1,Pr55(Gag),interacts with
+Dasatinib | down | Citoesqueleto,PTK2,Envelope surface glycoprotein gp120; Tat,activates; co-localizes with; induces phosphorylation of; phosphorylates; recruits; upregulates
+Dasatinib | down | Citoesqueleto,PXN,Envelope surface glycoprotein gp120; matrix; Nef; Tat,activates; induces phosphorylation of; interacts with; recruits
+Dasatinib | down | Citoesqueleto,SNTB1,Nef,interacts with
+Dasatinib | down | Citoesqueleto,SNTB2,Nef,interacts with
+Dasatinib | down | Citoesqueleto,SPTAN1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); retropepsin; Rev; Vpr,cleaves; complexes with; interacts with; upregulates
+Dasatinib | down | Citoesqueleto,SPTBN1,capsid; matrix; Pr55(Gag); retropepsin; Rev; Tat; Vpr,associates with; cleaves; co-localizes with; interacts with
+Dasatinib | down | Citoesqueleto,STMN1,integrase,binds
+Dasatinib | down | Citoesqueleto,TAGLN2,Envelope surface glycoprotein gp120; Vpr,upregulates
+Dasatinib | down | Citoesqueleto,TLN1,matrix; retropepsin,cleaves; interacts with
+Dasatinib | down | Citoesqueleto,TPM3,retropepsin,degrades
+Dasatinib | down | Citoesqueleto,VCL,matrix; Nef,co-localizes with; interacts with; polarizes
+Dasatinib | down | Citoesqueleto,WAS,Envelope surface glycoprotein gp120; retropepsin,activates; associates with; cleaves; enhances; interacts with
+Dasatinib | down | Citoesqueleto,YWHAH,Vpr,binds; complexes with; enhanced by; inhibits
+Dasatinib | down | Citoesqueleto,ZYX,Nef,interacts with
+Dasatinib | up | Senalizacion celular,ITGB3,Envelope surface glycoprotein gp120; nucleocapsid; Tat,binds; cooperates with; interacts with; upregulates
+Dasatinib | up | Senalizacion celular,RAP1A,capsid,downregulated by
+Dasatinib | up | Senalizacion celular,TLN1,matrix; retropepsin,cleaves; interacts with
+Dasatinib | up | Spliceosoma/splicing,ALYREF,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev,complexes with; inhibits
+Dasatinib | up | Spliceosoma/splicing,GTF2F1,Envelope surface glycoprotein gp120; Tat,induces phosphorylation of; inhibits; interacts with; requires; synergizes with; upregulates
+Dasatinib | up | Spliceosoma/splicing,HNRNPA1,"Envelope surface glycoprotein gp120; Envelope surface glycoprotein gp160, precursor; Gag-Pol; Nef; Pr55(Gag); retropepsin; Rev",cleaves; complexes with; interacts with; modulated by; regulated by; stimulates
+Dasatinib | up | Spliceosoma/splicing,HNRNPC,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev,complexes with; interacts with
+Dasatinib | up | Spliceosoma/splicing,HNRNPD,"Envelope surface glycoprotein gp120; Envelope surface glycoprotein gp160, precursor; Gag-Pol; Nef; Pr55(Gag); Rev; Vpr",associates with; complexes with; downregulates; inhibited by; interacts with; regulated by
+Dasatinib | up | Spliceosoma/splicing,HNRNPDL,Rev,interacts with
+Dasatinib | up | Spliceosoma/splicing,HSPA8,Envelope surface glycoprotein gp120; Gag-Pol; matrix; Nef; Pr55(Gag); Tat; Vif; Vpr,co-localizes with; competes with; complexes with; incorporates; inhibited by; interacts with; regulated by; stimulated by; upregulates
+Dasatinib | up | Spliceosoma/splicing,MFAP1,Rev,interacts with
+Dasatinib | up | Spliceosoma/splicing,NCL,Envelope surface glycoprotein gp120; Gag-Pol; matrix; Nef; nucleocapsid; Pr55(Gag); reverse transcriptase; Tat,binds; complexes with; downregulates; fractionates with; upregulates
+Dasatinib | up | Spliceosoma/splicing,PTBP1,retropepsin; Rev; Tat,cleaves; interacts with
+Dasatinib | up | Spliceosoma/splicing,RBM39,Rev,interacts with
+Dasatinib | up | Spliceosoma/splicing,SF3B2,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); retropepsin; Vpr,binds; cleaves; complexes with; inhibits; interacts with
+Dasatinib | up | Spliceosoma/splicing,SNRNP200,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev,complexes with; interacts with
+Dasatinib | up | Spliceosoma/splicing,SRRM2,Pr55(Gag); Tat,interacts with
+Dasatinib | up | Spliceosoma/splicing,SRSF2,Rev; Tat,activated by; co-localizes with; increases phosphorylation of; inhibited by; interacts with
+Dasatinib | up | Spliceosoma/splicing,YBX1,Envelope surface glycoprotein gp120; Gag-Pol; matrix; Nef; Pr55(Gag); Tat,binds; complexes with; enhanced by; interacts with
+Imatinib | up | Spliceosoma/splicing,ACIN1,Rev,interacts with
+Imatinib | up | Spliceosoma/splicing,HNRNPC,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev,complexes with; interacts with
+Imatinib | up | Spliceosoma/splicing,HNRNPU,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); retropepsin; Rev; Vpr,cleaves; complexes with; interacts with; modulated by
+Imatinib | up | Spliceosoma/splicing,HSPA8,Envelope surface glycoprotein gp120; Gag-Pol; matrix; Nef; Pr55(Gag); Tat; Vif; Vpr,co-localizes with; competes with; complexes with; incorporates; inhibited by; interacts with; regulated by; stimulated by; upregulates
+Imatinib | up | Spliceosoma/splicing,HTATSF1,Nef; Tat,associates with; stimulated by; upregulates
+Imatinib | up | Spliceosoma/splicing,ILF3,capsid; Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev; Tat; Vpr,complexes with; downregulates; inhibited by; interacts with; regulated by
+Imatinib | up | Spliceosoma/splicing,PRPF31,Rev,interacts with
+Imatinib | up | Spliceosoma/splicing,RBM39,Rev,interacts with
+Imatinib | up | Spliceosoma/splicing,SF3B1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag),complexes with
+Imatinib | up | Spliceosoma/splicing,SNRNP70,Rev,interacts with
+Imatinib | up | Spliceosoma/splicing,SON,Pr55(Gag),interacts with
+Imatinib | up | Spliceosoma/splicing,SRRM2,Pr55(Gag); Tat,interacts with
+Imatinib | up | Spliceosoma/splicing,SRSF1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev; Tat,competes with; complexes with; enhanced by; inhibited by; inhibits; interacts with; regulated by; requires
+Imatinib | up | Spliceosoma/splicing,SRSF2,Rev; Tat,activated by; co-localizes with; increases phosphorylation of; inhibited by; interacts with
+Imatinib | up | Spliceosoma/splicing,THRAP3,integrase; Pr55(Gag); retropepsin,binds; cleaves; interacts with

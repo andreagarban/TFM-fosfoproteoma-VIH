@@ -1,0 +1,144 @@
+bloque,tratamiento,gen,proteina,uniprot,nivel,proteinas_virales,tipos_interaccion
+Dasatinib | down | Citoesqueleto,Dasatinib,ACTN1,ACTN1_HUMAN,P12814,1. Relación directa con VIH-1,retropepsin; Vpr,cleaves; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,ADD1,ADDA_HUMAN,P35611,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,ADD2,ADDB_HUMAN,P35612,2. Relación indirecta o funcional,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,APOA1,APOA1_HUMAN,P02647,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Nef,competes with; inhibits
+Dasatinib | down | Citoesqueleto,Dasatinib,ARHGEF18,ARHGI_HUMAN,Q6ZSZ5,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,BRAF,BRAF_HUMAN,P15056,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,CALD1,CALD1_HUMAN,Q05682,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,CLASP1,CLAP1_HUMAN,Q7Z460,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,CLASP2,CLAP2_HUMAN,O75122,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,DMTN,DEMA_HUMAN,Q08495,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,HSP90B1,ENPL_HUMAN,P14625,1. Relación directa con VIH-1,"Envelope surface glycoprotein gp160, precursor; Nef; Rev",cooperates with; interacts with; requires
+Dasatinib | down | Citoesqueleto,Dasatinib,EVL,EVL_HUMAN,Q9UI08,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120,interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,EZR,EZRI_HUMAN,P15311,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; matrix; Nef; Pr55(Gag); Tat; Vpr,binds; co-localizes with; downregulates; enhances; incorporates; induces phosphorylation of; interacts with; relocalizes; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,FHOD1,FHOD1_HUMAN,Q9Y613,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,FLNA,FLNA_HUMAN,P21333,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); retropepsin; Tat; Vpr,binds; cleaves; co-localizes with; complexes with; incorporates; interacts with; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,CCDC88A,GRDN_HUMAN,Q3V6T2,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,LIMA1,LIMA1_HUMAN,Q9UHB6,1. Relación directa con VIH-1,Tat,interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,PPFIA1,LIPA1_HUMAN,Q13136,1. Relación directa con VIH-1,Pr55(Gag),interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,LUZP1,LUZP1_HUMAN,Q86V48,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,MARCKS,MARCS_HUMAN,P29966,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,NF2,MERL_HUMAN,P35240,1. Relación directa con VIH-1,Nef,induces phosphorylation of
+Dasatinib | down | Citoesqueleto,Dasatinib,MTOR,MTOR_HUMAN,P42345,1. Relación directa con VIH-1,capsid; Envelope surface glycoprotein gp120; Nef; Tat,activates; induces phosphorylation of; regulated by; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,PIK3R2,P85B_HUMAN,O00459,1. Relación directa con VIH-1,"Envelope surface glycoprotein gp120; Envelope surface glycoprotein gp160, precursor; Nef; Tat",activates; associates with; complexes with; downregulates; induces phosphorylation of; inhibited by; inhibits; interacts with; mediated by; modulated by; regulated by; relocalizes; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,PAK1,PAK1_HUMAN,Q13153,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Nef; Tat,activates; associates with; inhibits; interacts with; regulated by
+Dasatinib | down | Citoesqueleto,Dasatinib,PXN,PAXI_HUMAN,P49023,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; matrix; Nef; Tat,activates; induces phosphorylation of; interacts with; recruits
+Dasatinib | down | Citoesqueleto,Dasatinib,PLEK,PLEK_HUMAN,P08567,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,LCP1,PLSL_HUMAN,P13796,1. Relación directa con VIH-1,"Envelope surface glycoprotein gp120; Envelope surface glycoprotein gp160, precursor; retropepsin",cleaved by; cleaves; downregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,PFN1,PROF1_HUMAN,P07737,1. Relación directa con VIH-1,Vpr,downregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,SHTN1,SHOT1_HUMAN,A0MZ66,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,STMN1,STMN1_HUMAN,P16949,1. Relación directa con VIH-1,integrase,binds
+Dasatinib | down | Citoesqueleto,Dasatinib,WAS,WASP_HUMAN,P42768,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; retropepsin,activates; associates with; cleaves; enhances; interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,ZEB2,ZEB2_HUMAN,O60315,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,ZYX,ZYX_HUMAN,Q15942,1. Relación directa con VIH-1,Nef,interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,ADD3,ADDG_HUMAN,Q9UEY8,1. Relación directa con VIH-1,Vif,downregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,ARHGEF2,ARHG2_HUMAN,Q92974,2. Relación indirecta o funcional,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,ARHGEF7,ARHG7_HUMAN,Q14155,1. Relación directa con VIH-1,Nef,induces complex with
+Dasatinib | down | Citoesqueleto,Dasatinib,ARHGEF7,B1ALK7_HUMAN,B1ALK7,1. Relación directa con VIH-1,Nef,induces complex with
+Dasatinib | down | Citoesqueleto,Dasatinib,EML2,C9JRL6_HUMAN,C9JRL6,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120,upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,CAPZA1,CAZA1_HUMAN,P52907,1. Relación directa con VIH-1,Vpr,upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,CDK5RAP2,CK5P2_HUMAN,Q96SN8,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,CORO1A,COR1A_HUMAN,P31146,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,GSN,GELS_HUMAN,P06396,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Tat; Vpr,downregulates; inhibited by; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,MAPRE1,MARE1_HUMAN,Q15691,1. Relación directa con VIH-1,Vpr,interacts with; relocalizes
+Dasatinib | down | Citoesqueleto,Dasatinib,NPM1,NPM_HUMAN,P06748,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev; Tat; Vpr,activated by; associates with; binds; co-localizes with; complexes with; downregulates; interacts with; regulated by; stimulated by; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,SPTBN1,SPTB2_HUMAN,Q01082,1. Relación directa con VIH-1,capsid; matrix; Pr55(Gag); retropepsin; Rev; Tat; Vpr,associates with; cleaves; co-localizes with; interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,SPTAN1,SPTN1_HUMAN,Q13813,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); retropepsin; Rev; Vpr,cleaves; complexes with; interacts with; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,SVIL,SVIL_HUMAN,O95425,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,TAOK1,TAOK1_HUMAN,Q7L7X3,2. Relación indirecta o funcional,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,TMOD3,TMOD3_HUMAN,Q9NYL9,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,TPX2,TPX2_HUMAN,Q9ULW0,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,TWF2,TWF2_HUMAN,Q6IBS0,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,YWHAH,1433F_HUMAN,Q04917,1. Relación directa con VIH-1,Vpr,binds; complexes with; enhanced by; inhibits
+Dasatinib | down | Citoesqueleto,Dasatinib,EPB41,41_HUMAN,P11171,1. Relación directa con VIH-1,Pr55(Gag),incorporates
+Dasatinib | down | Citoesqueleto,Dasatinib,ABLIM1,ABLM1_HUMAN,O14639,2. Relación indirecta o funcional,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,ACTN4,ACTN4_HUMAN,O43707,1. Relación directa con VIH-1,Envelope transmembrane glycoprotein gp41; Vpr,inhibits; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,ARPC4,ARPC4_HUMAN,P59998,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag),complexes with
+Dasatinib | down | Citoesqueleto,Dasatinib,CAP1,CAP1_HUMAN,Q01518,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,CAPZB,CAPZB_HUMAN,P47756,1. Relación directa con VIH-1,Tat,interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,COTL1,COTL1_HUMAN,Q14019,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,RCSD1,CPZIP_HUMAN,Q6JBY9,2. Relación indirecta o funcional,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,DBNL,DBNL_HUMAN,Q9UJU6,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,EPB41L2,E41L2_HUMAN,O43491,1. Relación directa con VIH-1,Pr55(Gag),incorporates
+Dasatinib | down | Citoesqueleto,Dasatinib,EPB41L3,E41L3_HUMAN,Q9Y2J2,1. Relación directa con VIH-1,Pr55(Gag),incorporates
+Dasatinib | down | Citoesqueleto,Dasatinib,ARHGAP27,E9PNT2_HUMAN,E9PNT2,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,PTK2,FAK1_HUMAN,Q05397,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Tat,activates; co-localizes with; induces phosphorylation of; phosphorylates; recruits; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,FKBP15,FKB15_HUMAN,Q5T1M5,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,HCLS1,HCLS1_HUMAN,P14317,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,HDGF,HDGF_HUMAN,P51858,1. Relación directa con VIH-1,Vpr,downregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,INF2,INF2_HUMAN,Q27J81,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,LSP1,LSP1_HUMAN,P33241,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120,associates with; interacts with; regulated by; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,MAP1S,MAP1S_HUMAN,Q66K74,1. Relación directa con VIH-1,capsid,activated by; interacts with; regulated by
+Dasatinib | down | Citoesqueleto,Dasatinib,MEFV,MEFV_HUMAN,O15553,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,MSN,MOES_HUMAN,P26038,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Pr55(Gag); Vpr; Vpu,binds; co-localizes with; downregulates; incorporates; induces phosphorylation of; interacts with; modulated by; relocalizes
+Dasatinib | down | Citoesqueleto,Dasatinib,MARCKSL1,MRP_HUMAN,P49006,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,MYO18A,MY18A_HUMAN,Q92614,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120,upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,MYH9,MYH9_HUMAN,P35579,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Nef; Pr55(Gag); retropepsin; Tat; Vpr,cleaves; downregulates; interacts with; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,MYO9B,MYO9B_HUMAN,Q13459,2. Relación indirecta o funcional,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,PARVB,PARVB_HUMAN,Q9HBI1,2. Relación indirecta o funcional,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,PLEC,PLEC_HUMAN,Q15149,1. Relación directa con VIH-1,Vif; Vpr,relocalizes; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,PPP1R18,PPR18_HUMAN,Q6NYC8,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,S100A4,S10A4_HUMAN,P26447,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,SNTB1,SNTB1_HUMAN,Q13884,1. Relación directa con VIH-1,Nef,interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,SNTB2,SNTB2_HUMAN,Q13425,1. Relación directa con VIH-1,Nef,interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,SYNE1,SYNE1_HUMAN,Q8NF91,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,TAGLN2,TAGL2_HUMAN,P37802,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Vpr,upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,TTN,TITIN_HUMAN,Q8WZ42,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,TLN1,TLN1_HUMAN,Q9Y490,1. Relación directa con VIH-1,matrix; retropepsin,cleaves; interacts with
+Dasatinib | down | Citoesqueleto,Dasatinib,TPM3,TPM3_HUMAN,P06753,1. Relación directa con VIH-1,retropepsin,degrades
+Dasatinib | down | Citoesqueleto,Dasatinib,TPM4,TPM4_HUMAN,P67936,2. Relación indirecta o funcional,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,VCL,VINC_HUMAN,P18206,1. Relación directa con VIH-1,matrix; Nef,co-localizes with; interacts with; polarizes
+Dasatinib | down | Citoesqueleto,Dasatinib,VPS16,VPS16_HUMAN,Q9H269,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,WDR1,WDR1_HUMAN,O75083,3. Candidata exploratoria,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,AKAP13,AKP13_HUMAN,Q12802,2. Relación indirecta o funcional,NA,NA
+Dasatinib | down | Citoesqueleto,Dasatinib,CAPN2,CAN2_HUMAN,P17655,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Tat,activates; upregulates
+Dasatinib | down | Citoesqueleto,Dasatinib,NUMA1,NUMA1_HUMAN,Q14980,1. Relación directa con VIH-1,retropepsin; Tat,cleaves; interacts with
+Imatinib | up | Spliceosoma/splicing,Imatinib,ACIN1,ACINU_HUMAN,Q9UKV3,1. Relación directa con VIH-1,Rev,interacts with
+Imatinib | up | Spliceosoma/splicing,Imatinib,COIL,COIL_HUMAN,P38432,3. Candidata exploratoria,NA,NA
+Imatinib | up | Spliceosoma/splicing,Imatinib,GPKOW,GPKOW_HUMAN,Q92917,3. Candidata exploratoria,NA,NA
+Imatinib | up | Spliceosoma/splicing,Imatinib,HNRNPUL2,HNRL2_HUMAN,Q1KMD3,2. Relación indirecta o funcional,NA,NA
+Imatinib | up | Spliceosoma/splicing,Imatinib,HNRNPC,HNRPC_HUMAN,P07910,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev,complexes with; interacts with
+Imatinib | up | Spliceosoma/splicing,Imatinib,HNRNPU,HNRPU_HUMAN,Q00839,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); retropepsin; Rev; Vpr,cleaves; complexes with; interacts with; modulated by
+Imatinib | up | Spliceosoma/splicing,Imatinib,HSPA8,HSP7C_HUMAN,P11142,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; matrix; Nef; Pr55(Gag); Tat; Vif; Vpr,co-localizes with; competes with; complexes with; incorporates; inhibited by; interacts with; regulated by; stimulated by; upregulates
+Imatinib | up | Spliceosoma/splicing,Imatinib,HTATSF1,HTSF1_HUMAN,O43719,1. Relación directa con VIH-1,Nef; Tat,associates with; stimulated by; upregulates
+Imatinib | up | Spliceosoma/splicing,Imatinib,ILF3,ILF3_HUMAN,Q12906,1. Relación directa con VIH-1,capsid; Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev; Tat; Vpr,complexes with; downregulates; inhibited by; interacts with; regulated by
+Imatinib | up | Spliceosoma/splicing,Imatinib,PRPF31,PRP31_HUMAN,Q8WWY3,1. Relación directa con VIH-1,Rev,interacts with
+Imatinib | up | Spliceosoma/splicing,Imatinib,RBM39,RBM39_HUMAN,Q14498,1. Relación directa con VIH-1,Rev,interacts with
+Imatinib | up | Spliceosoma/splicing,Imatinib,RBM5,RBM5_HUMAN,P52756,2. Relación indirecta o funcional,NA,NA
+Imatinib | up | Spliceosoma/splicing,Imatinib,RBM7,RBM7_HUMAN,Q9Y580,2. Relación indirecta o funcional,NA,NA
+Imatinib | up | Spliceosoma/splicing,Imatinib,SNRNP70,RU17_HUMAN,P08621,1. Relación directa con VIH-1,Rev,interacts with
+Imatinib | up | Spliceosoma/splicing,Imatinib,SCAF11,SCAFB_HUMAN,Q99590,3. Candidata exploratoria,NA,NA
+Imatinib | up | Spliceosoma/splicing,Imatinib,SF3B1,SF3B1_HUMAN,O75533,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag),complexes with
+Imatinib | up | Spliceosoma/splicing,Imatinib,SON,SON_HUMAN,P18583,1. Relación directa con VIH-1,Pr55(Gag),interacts with
+Imatinib | up | Spliceosoma/splicing,Imatinib,SRPK2,SRPK2_HUMAN,P78362,3. Candidata exploratoria,NA,NA
+Imatinib | up | Spliceosoma/splicing,Imatinib,SRRM2,SRRM2_HUMAN,Q9UQ35,1. Relación directa con VIH-1,Pr55(Gag); Tat,interacts with
+Imatinib | up | Spliceosoma/splicing,Imatinib,SRSF1,SRSF1_HUMAN,Q07955,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev; Tat,competes with; complexes with; enhanced by; inhibited by; inhibits; interacts with; regulated by; requires
+Imatinib | up | Spliceosoma/splicing,Imatinib,SRSF2,SRSF2_HUMAN,Q01130,1. Relación directa con VIH-1,Rev; Tat,activated by; co-localizes with; increases phosphorylation of; inhibited by; interacts with
+Imatinib | up | Spliceosoma/splicing,Imatinib,THRAP3,TR150_HUMAN,Q9Y2W1,1. Relación directa con VIH-1,integrase; Pr55(Gag); retropepsin,binds; cleaves; interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,CACTIN,CATIN_HUMAN,Q8WUQ7,2. Relación indirecta o funcional,NA,NA
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,CTNNBL1,CTBL1_HUMAN,Q8WYA6,3. Candidata exploratoria,NA,NA
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,HNRNPDL,HNRDL_HUMAN,O14979,1. Relación directa con VIH-1,Rev,interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,HNRNPC,HNRPC_HUMAN,P07910,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev,complexes with; interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,HSPA8,HSP7C_HUMAN,P11142,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; matrix; Nef; Pr55(Gag); Tat; Vif; Vpr,co-localizes with; competes with; complexes with; incorporates; inhibited by; interacts with; regulated by; stimulated by; upregulates
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,MFAP1,MFAP1_HUMAN,P55081,1. Relación directa con VIH-1,Rev,interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,NCL,NUCL_HUMAN,P19338,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; matrix; Nef; nucleocapsid; Pr55(Gag); reverse transcriptase; Tat,binds; complexes with; downregulates; fractionates with; upregulates
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,HNRNPA1,ROA1_HUMAN,P09651,1. Relación directa con VIH-1,"Envelope surface glycoprotein gp120; Envelope surface glycoprotein gp160, precursor; Gag-Pol; Nef; Pr55(Gag); retropepsin; Rev",cleaves; complexes with; interacts with; modulated by; regulated by; stimulates
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,SF3B2,SF3B2_HUMAN,Q13435,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); retropepsin; Vpr,binds; cleaves; complexes with; inhibits; interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,SRRM2,SRRM2_HUMAN,Q9UQ35,1. Relación directa con VIH-1,Pr55(Gag); Tat,interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,SRSF2,SRSF2_HUMAN,Q01130,1. Relación directa con VIH-1,Rev; Tat,activated by; co-localizes with; increases phosphorylation of; inhibited by; interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,ALYREF,THOC4_HUMAN,Q86V81,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev,complexes with; inhibits
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,SNRNP200,U520_HUMAN,O75643,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; Nef; Pr55(Gag); Rev,complexes with; interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,YBX1,YBOX1_HUMAN,P67809,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Gag-Pol; matrix; Nef; Pr55(Gag); Tat,binds; complexes with; enhanced by; interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,CHERP,CHERP_HUMAN,Q8IWX8,3. Candidata exploratoria,NA,NA
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,HNRNPD,HNRPD_HUMAN,Q14103,1. Relación directa con VIH-1,"Envelope surface glycoprotein gp120; Envelope surface glycoprotein gp160, precursor; Gag-Pol; Nef; Pr55(Gag); Rev; Vpr",associates with; complexes with; downregulates; inhibited by; interacts with; regulated by
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,PTBP1,PTBP1_HUMAN,P26599,1. Relación directa con VIH-1,retropepsin; Rev; Tat,cleaves; interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,RBM39,RBM39_HUMAN,Q14498,1. Relación directa con VIH-1,Rev,interacts with
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,RBM7,RBM7_HUMAN,Q9Y580,2. Relación indirecta o funcional,NA,NA
+Dasatinib | up | Spliceosoma/splicing,Dasatinib,GTF2F1,T2FA_HUMAN,P35269,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; Tat,induces phosphorylation of; inhibits; interacts with; requires; synergizes with; upregulates
+Dasatinib | up | Senalizacion celular,Dasatinib,FGA,FIBA_HUMAN,P02671,3. Candidata exploratoria,NA,NA
+Dasatinib | up | Senalizacion celular,Dasatinib,FGB,FIBB_HUMAN,P02675,3. Candidata exploratoria,NA,NA
+Dasatinib | up | Senalizacion celular,Dasatinib,ITGA2B,ITA2B_HUMAN,P08514,3. Candidata exploratoria,NA,NA
+Dasatinib | up | Senalizacion celular,Dasatinib,ITGB3,ITB3_HUMAN,P05106,1. Relación directa con VIH-1,Envelope surface glycoprotein gp120; nucleocapsid; Tat,binds; cooperates with; interacts with; upregulates
+Dasatinib | up | Senalizacion celular,Dasatinib,RAP1A,RAP1A_HUMAN,P62834,1. Relación directa con VIH-1,capsid,downregulated by
+Dasatinib | up | Senalizacion celular,Dasatinib,TLN1,TLN1_HUMAN,Q9Y490,1. Relación directa con VIH-1,matrix; retropepsin,cleaves; interacts with

@@ -1,0 +1,5 @@
+Fecha de ejecucion: 2026-10-19
+clusterProfiler 4.16.0
+ReactomePA 1.52.0
+org.Hs.eg.db 3.21.0
+enrichplot 1.28.4
